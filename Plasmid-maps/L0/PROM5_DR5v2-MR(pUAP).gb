@@ -1,0 +1,87 @@
+LOCUS       PROM5_DR5v2-MR(pUAP)    2284 bp ds-DNA     circular     21-DEC-2021
+DEFINITION  .
+KEYWORDS    "Plasmid.size:2999" "Insert.length" "Vector.length" "Availability" 
+            "Status" "Plasmids Box- Number" "Glycerol stock" "L0 position"
+            "Type.of.part" "Description" "Phytozome.ID" "TF.family"
+            "MarpolBase.Name" "Original.Name:DR5v2_MR_PROM5_pUAP3"
+            "Acceptor.plasmid:pUAP3" "Resistance" "Source of
+            part-DNA:PROM5_DR5v2 synthesised by GeneARt for MD  817003DE"
+            "Analysis of plasmid (sequence RE)" "Designer:MR" "Builder:MR "
+            "Curator (annotations seq schema):MR / SSG" "Which Type IIS" "kit"
+            "Shared.with..Relevant.info" "Twist.order.item.id"
+            "Twsit.line.item.number" "Twist.Plate" "Twist.Plate.number"
+            "Twist.Well" "Yield.ng" "GENEWIZ.Clone.ID" "Genewiz.Order" "Label"
+FEATURES             Location/Qualifiers
+     CDS             complement(1..660)
+                     /label="CmR (cat, chloramphenicol acetyltransferase)"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     misc_feature    895..895
+                     /label="here, keep"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     misc_feature    903..906
+                     /label="PROM5"
+                     /ApEinfo_revcolor=#f8d3a9
+                     /ApEinfo_fwdcolor=#f8d3a9
+     misc_feature    907..1129
+                     /label="pDR5v2"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     misc_feature    1084..1129
+                     /label="46-min-35S"
+                     /ApEinfo_revcolor=#d6b295
+                     /ApEinfo_fwdcolor=#d6b295
+     misc_feature    1130..1133
+                     /label="PROM5-CDS"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     Replication_ori complement(1399..1987)
+                     /label="high-copy-number ColE1/pMB1/pBR322/pUC origin of replication"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     Terminator      complement(2170..2264)
+                     /label="lambda t0 terminator"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+ORIGIN
+        1 TTACGCCCCG CCCTGCCACT CATCGCAGTA CTGTTGTAAT TCATTAAGCA TTCTGCCGAC
+       61 ATGGAAGCCA TCACAAACGG CATGATGAAC CTGAATCGCC AGCGGCATCA GCACCTTGTC
+      121 GCCTTGCGTA TAATATTTGC CCATGGTGAA AACGGGGGCG AAGAAGTTGT CCATATTGGC
+      181 CACGTTTAAA TCAAAACTGG TGAAACTCAC CCAGGGATTG GCTGAGACGA AAAACATATT
+      241 CTCAATAAAC CCTTTAGGGA AATAGGCCAG GTTTTCACCG TAACACGCCA CATCTTGCGA
+      301 ATATATGTGT AGAAACTGCC GGAAATCGTC GTGGTATTCA CTCCAGAGCG ATGAAAACGT
+      361 TTCAGTTTGC TCATGGAAAA CGGTGTAACA AGGGTGAACA CTATCCCATA TCACCAGCTC
+      421 ACCGTCTTTC ATTGCCATAC GAAATTCCGG ATGAGCATTC ATCAGGCGGG CAAGAATGTG
+      481 AATAAAGGCC GGATAAAACT TGTGCTTATT TTTCTTTACG GTCTTTAAAA AGGCCGTAAT
+      541 ATCCAGCTGA ACGGTCTGGT TATAGGTACA TTGAGCAACT GACTGAAATG CCTCAAAATG
+      601 TTCTTTACGA TGCCATTGGG ATATATCAAC GGTGGTATAT CCAGTGATTT TTTTCTCCAT
+      661 TTTAGCTTCC TTAGCTCCTG AAAATCTCGA TAACTCAAAA AATACGCCCG GTAGTGATCT
+      721 TATTTCATTA TGGTGAAAGT TGGAACCTCT TACGTGCCCG ATCAACTCGA GTGCCACCTG
+      781 ACGTCTAAGA AACCATTATT ATCATGACAT TAACCTATAA AAATAGGCGT ATCACGAGGC
+      841 AGAATTTCAG ATAAAAAAAA TCCTTAGCTT TCGCTAAGGA TGATTTCTGG AATTCggtct
+      901 CAGGAGgttg gaataggatt tcgaattccc gacaaaaggc cgacaaaagg ccgacaaaag
+      961 gccgacaaaa ggccgacaaa aggccgacaa aaggccgaca aaaggccgac aaaaggccga
+     1021 caaaaggccg acaaaagggg gcaggcctcg ataagcttga tatcgaatta attcctgcag
+     1081 ccccgcaaga cccttcctct atataaggaa gttcatttca tttggagagA ATGCGAGAcc
+     1141 CTGCAGTCCG GCAAAAAAGG GCAAGGTGTC ACCACCCTGC CCTTTTTCTT TAAAACCGAA
+     1201 AAGATTACTT CGCGTTATGC AGGCTTCCTC GCTCACTGAC TCGCTGCGCT CGGTCGTTCG
+     1261 GCTGCGGCGA GCGGTATCAG CTCACTCAAA GGCGGTAATA CGGTTATCCA CAGAATCAGG
+     1321 GGATAACGCA GGAAAGAACA TGTGAGCAAA AGGCCAGCAA AAGGCCAGGA ACCGTAAAAA
+     1381 GGCCGCGTTG CTGGCGTTTT TCCACAGGCT CCGCCCCCCT GACGAGCATC ACAAAAATCG
+     1441 ACGCTCAAGT CAGAGGTGGC GAAACCCGAC AGGACTATAA AGATACCAGG CGTTTCCCCC
+     1501 TGGAAGCTCC CTCGTGCGCT CTCCTGTTCC GACCCTGCCG CTTACCGGAT ACCTGTCCGC
+     1561 CTTTCTCCCT TCGGGAAGCG TGGCGCTTTC TCATAGCTCA CGCTGTAGGT ATCTCAGTTC
+     1621 GGTGTAGGTC GTTCGCTCCA AGCTGGGCTG TGTGCACGAA CCCCCCGTTC AGCCCGACCG
+     1681 CTGCGCCTTA TCCGGTAACT ATCGTCTTGA GTCCAACCCG GTAAGACACG ACTTATCGCC
+     1741 ACTGGCAGCA GCCACTGGTA ACAGGATTAG CAGAGCGAGG TATGTAGGCG GTGCTACAGA
+     1801 GTTCTTGAAG TGGTGGCCTA ACTACGGCTA CACTAGAAGA ACAGTATTTG GTATCTGCGC
+     1861 TCTGCTGAAG CCAGTTACCT TCGGAAAAAG AGTTGGTAGC TCTTGATCCG GCAAACAAAC
+     1921 CACCGCTGGT AGCGGTGGTT TTTTTGTTTG CAAGCAGCAG ATTACGCGCA GAAAAAAAGG
+     1981 ATCTCAAGAA GATCCTTTGA TCTTTTCTAC GGGGTCTGAC GCTCAGTGGA ACGAAAACTC
+     2041 ACGTTAAGGG ATTTTGGTCA TGAGATTATC AAAAAGGATC TTCACCTAGA TCCTTTTAAA
+     2101 TTAAAAATGA AGTTTTAAAT CAATCTAAAG TATATATGAG TAAACTTGGT CTGACAGCTC
+     2161 GAGGCTTGGA TTCTCACCAA TAAAAAACGC CCGGCGGCAA CCGAGCGTTC TGAACAAATC
+     2221 CAGATGGAGT TCTGAGGTCA TTACTGGATC TATCAACAGG AGTCCAAGCG AGCTCGATAT
+     2281 CAAA
+//

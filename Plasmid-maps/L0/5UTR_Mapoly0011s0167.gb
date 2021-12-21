@@ -1,0 +1,55 @@
+LOCUS       5UTR_Mapoly0011s0167    1481 bp ds-DNA     linear       21-DEC-2021
+DEFINITION  .
+KEYWORDS    "Plasmid.size:3516" "Insert.length:1463" "Vector.length:2053"      
+            "Availability:yes" "Status:Available needs diluting" "Plasmids Box-
+            Number:NA" "Glycerol stock" "L0 position" "Type.of.part:5UTR"
+            "Description:Mapoly0011s0167.1 mpdbTak.gene.17451"
+            "Phytozome.ID:Mapoly0011s0167" "TF.family:ARF"
+            "MarpolBase.Name:MpB3-1" "Original.Name:5UTR_MpARF2"
+            "Acceptor.plasmid:pUAP1" "Resistance:Cm" "Source of part-DNA"
+            "Analysis of plasmid (sequence RE)" "Designer:M.Delmans(Haseloff)"
+            "Builder:Genewiz" "Curator (annotations seq schema):SSG" "Which
+            Type IIS" "kit" "Shared.with..Relevant.info" "Twist.order.item.id"
+            "Twsit.line.item.number" "Twist.Plate" "Twist.Plate.number"
+            "Twist.Well" "Yield.ng:4000" "GENEWIZ.Clone.ID:BB5084-1/T312784"
+            "Genewiz.Order:3" "Label"
+FEATURES             Location/Qualifiers
+     misc_feature    10..13
+                     /label="5UTR overhang"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    14..1468
+                     /label="utr5MpARF2"
+                     /ApEinfo_revcolor=#5073ff
+                     /ApEinfo_fwdcolor=#5073ff
+     misc_feature    1469..1472
+                     /label="5UTR overhang"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+ORIGIN
+        1 TAGGTCTCAt actgctcgcc tctcggcccc cgcgcgttgg ttgcatgttt gcagggcctg
+       61 ctgtatttca tcatcgtcat ttgctcccat accgtcgcaa tgacccgccg agagccccag
+      121 ccccttttcc ccgaccttcc ttccgggcct gcgccggggc tccggtccgg ttcctcttct
+      181 gtcgcgtgcc tgctttgcct ttctcctgcc cctggctggg gcttgcctcc cgagtcccgt
+      241 ccccttcccg tcttccggcc cccgccccgc gcagctctct tgccgccgct cgcctcgcaa
+      301 ggtaacttac cccgccccgc ctcgctctcc cccttcctcg ccaccctagc ttccgacaac
+      361 tctctgatgt tgtgaaggac ggacttccca atttctttct ctctctctct ctctctctct
+      421 ctctctacct ctcccccagc cccagcccca cccccctccc cacatcccac tccccctcgg
+      481 tccccgcctg cctgtccctg ccccctcttc ttctgccgct ggcttctgtt ctgttctgtt
+      541 gttctgttgc gcgaatacta gacgcgctcc acttcttctt ctgctggctc gctctgaccc
+      601 tttttcttct tcctcctcac ctcctcctgc accttctcct ccctcccctc ctcccctccc
+      661 cgctccatcc ttcgcaagcg agagagccga gactgcaccg cgtctcctcc tcctcacccc
+      721 gctcctcgtc gctgcgattt ctcgggtgct cgggctcggg cctgtgctcc ccttctgctg
+      781 ctgctgctgc tgctgttggc acccaccgca cctgcgagtg tggaggtaat ctcacccctc
+      841 cccgacgcgc cctcaaacct gtctgtctgc ccgactgccg agccctcgta cgcccgtcga
+      901 gcgatgcgtt actgctctcc tcgttctgcg ctgcaattgg tgctcgcctt gtgcgcgtct
+      961 gcgcgtgccg ttgtttcttg agagcaagag ggccccgtcc gcctgcagtc tttccaaccc
+     1021 gctcgtctgt cgttgctttc ttgcaggaca ccgcttcgcg catcgtccgc ccggaggccg
+     1081 ttcgctcgcc tcctcgcctg cctcgacctc gacagcgacc ggctctcgtg gagcgctgga
+     1141 gtgtgcaggt cgtagttgtg attgggaaca ggttggaaat acagagctcg cacggggaag
+     1201 tagtttactc gtgcgccagg ggggacagga agttcaaagg acaggctcgg gagcaaaagc
+     1261 ctcgaccagg actcggattt aggtgattct tggaattcgc tgcggccgga ggactagtgg
+     1321 cgcagtagac ctctcccgga aggcacccca ggcaggcagc ctcgggcgga aatctgcgga
+     1381 actgaggttc cgagagggca tggggaaagg agctccaaga tgtggtaatc agctgcgtag
+     1441 tctagcattt tagacagaag ttccgaccaa tgTGAGACCA T
+//

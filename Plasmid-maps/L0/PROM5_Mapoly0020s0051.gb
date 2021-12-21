@@ -1,0 +1,78 @@
+LOCUS       PROM5_Mapoly0020s0051   1814 bp ds-DNA     linear       21-DEC-2021
+DEFINITION  .
+KEYWORDS    "Plasmid.size:3853" "Insert.length:1800" "Vector.length:2053"      
+            "Availability:yes" "Status:Available" "Plasmids Box- Number:NA"
+            "Glycerol stock" "L0 position" "Type.of.part:PROM5"
+            "Description:Mapoly0020s0051.1" "Phytozome.ID:Mapoly0020s0051"
+            "TF.family:NAC" "MarpolBase.Name:MpNAC4"
+            "Original.Name:PROM5_tf_NAC_3" "Acceptor.plasmid:pUAP1"
+            "Resistance:Cm" "Source of part-DNA" "Analysis of plasmid (sequence
+            RE)" "Designer:M.Delmans(Haseloff)" "Builder:SSG / Twist 1st batch"
+            "Curator (annotations seq schema):SSG" "Which Type IIS" "kit"
+            "Shared.with..Relevant.info"
+            "Twist.order.item.id:OI_5989fb7477383b230bae0381"
+            "Twsit.line.item.number:272" "Twist.Plate:pSHPs0829B283055MU"
+            "Twist.Plate.number:3" "Twist.Well:H7" "Yield.ng:1000"
+            "GENEWIZ.Clone.ID" "Genewiz.Order" "Label:done"
+FEATURES             Location/Qualifiers
+     misc_feature    1..6
+                     /label="BsaI site"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     misc_feature    8..11
+                     /label="PROM5 overhang"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    12..1803
+                     /label="protf_NAC_3"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     misc_feature    30..35
+                     /label="Restriction site removed"
+                     /ApEinfo_revcolor=#f96381
+                     /ApEinfo_fwdcolor=#f96381
+     5UTR            1325..1803
+                     /label="utr5tf_NAC_3"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     misc_feature    1804..1807
+                     /label="PROM5 overhang"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    complement(1809..1814)
+                     /label="BsaI site"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+ORIGIN
+        1 GGTCTCAgga gagcggtggt aataaggagg aaaccgtgta ctccatttgc accgacaatt
+       61 gagggcatca atttccaatt acaattcagc aaatgaactt tagagacatt ttcaaaatgg
+      121 cggacccgcc attctgtggc aggcgaacta aaaaaccggt aatttggttg agctctagac
+      181 ctttccgtgt acgcgagctc gaggcttttc cgtgcacgcg tgcagagtga gctcagcgac
+      241 agcggactta gcgagcgtca tcctagtatg tcacgacctt cgattggact cgagcctccc
+      301 tatagttctc cctccagctg tgataggagc gagcgagtaa gatagccaca aaattgggaa
+      361 gaccgcatac ctcacattca acgcctgctt ccgtttacta aattgacgag ggagagtcta
+      421 ttttctcata tcctagtgac gttcgtttcg ccgttcggtg tcacatggcg ccgagaacga
+      481 ttgccccaac ttcggaataa ttttcttcca tttccccgag ccaacagatc tcgccgtccg
+      541 gtgtcgacag agtttctctc cggggaagat attggaatgg aaatagtaga aatcggaata
+      601 tcagctactt caaactaata aattctataa atcataaaaa aatggtaatt cgcttctaaa
+      661 tcgctcatcg agcgggccac tttttacacg gtgttggaat ctctctcact atcttccatt
+      721 aatatataaa tatcttacag tcggcttgag tgttccaatg gatactagtc ggtgatcgaa
+      781 tttaagcacc atcaagagaa gcagagaata gtagtagaaa agaattccaa agtggaggat
+      841 cagcattgtg tggtccgccc cgagtgccaa ttcagaatct tgtcacactc cacaaaccgg
+      901 ggaaataaaa agatcagatc gaatcgaatg tccaggaaga cgagcgacgg caaccagttt
+      961 atcctccggc gagatttcgc cgaggacatt tctcccagcc aaatcgggaa cgacgagagg
+     1021 agaaacggac gtccctaatg ttggagaaag aagagacgga gcacaccgac gaaagacgat
+     1081 ctatataacg agaagagggc tgacggagag caggtgcgaa cgacgtcgag tgaccagagg
+     1141 tcggaggagg aggaggaggt ggtaggaact cggaagcttc agggagaagc cgggagaatc
+     1201 ggccagggag tggcgggcgg ggcccaccaa ggagcggaag tcccccggcg ccgaggatga
+     1261 gccttttgac cggggcgtcg aggattctta agcaccgcct tctttcgttc cgggcctctt
+     1321 tggccctccc gagcgtcgtc gtcgacaggc ccctcgtcca gtctcgagct gtagcgtgag
+     1381 gtgctctccg gccttcatgc ctgcccgcct gcctgccttc taatcttcgt ggcagggtgt
+     1441 gtgagtgtga gaggcgtcgg gtgccaaaac tctcgtcccc cgtatcatga gcccgtgttc
+     1501 ctgtttggga tcctccctct ctcttggacc gcatcaacag cgtcgggggt tcctctcctg
+     1561 cgctacttgt tactctcgac aacccggcct tcgcaaacga agccccaatc gttgagcgcg
+     1621 tctgcttctc agtagtggcg ataggctggt gggtggattg gtagattggt agattggtaa
+     1681 attgatcact cggcctatcg atcggggctg aatttcggac ttatttcgtg acagtcgagg
+     1741 cgaggtcgtc tccttttgtg gttgagcgag cgcgtgattg ctgattggta tacgtttgtg
+     1801 aagaatgCGA GACC
+//

@@ -1,0 +1,141 @@
+LOCUS       PROM5_35S-BP             888 bp ds-DNA     linear       21-DEC-2021
+DEFINITION  .
+KEYWORDS    "Plasmid.size:3840" "Insert.length:866" "Vector.length:2974"       
+            "Availability:yes" "Status:Available" "Plasmids Box- Number"
+            "Glycerol stock" "L0 position" "Type.of.part:PROM5"
+            "Description:35S-BP is as it was annotated in his plasmids, but it
+            was missannotated, part of Hyg-BP is not Hyg but a min35S, so it
+            should be included in the 35S_BP      .p35S-BP, same as in
+            GenBank\: AB626666.1 from plasmid L2-L145_500" "Phytozome.ID"
+            "TF.family" "MarpolBase.Name" "Original.Name"
+            "Acceptor.plasmid:pJET" "Resistance:Amp" "Source of part-DNA"
+            "Analysis of plasmid (sequence RE):seq" "Designer:BP-SSG"
+            "Builder:EF" "Curator (annotations seq schema):SSG" "Which Type
+            IIS" "kit:no, recloned" "Shared.with..Relevant.info"
+            "Twist.order.item.id" "Twsit.line.item.number" "Twist.Plate"
+            "Twist.Plate.number" "Twist.Well" "Yield.ng" "GENEWIZ.Clone.ID"
+            "Genewiz.Order" "Label:done"
+FEATURES             Location/Qualifiers
+     primer          1..33
+                     /label="59F-35S-BP"
+                     /note="sequence: TAGGTCTCAGGAGAGATTAGCCTTTTCAATTTC"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     promoter        14..78
+                     /label="35S pro"
+                     /ApEinfo_revcolor=#5573ff
+                     /ApEinfo_fwdcolor=#5573ff
+     misc_feature    14..848
+                     /label="p35S-BP"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    76..78
+                     /label="BspMI"
+                     /ApEinfo_revcolor=#ff1827
+                     /ApEinfo_fwdcolor=#ff1827
+     misc_feature    80..81
+                     /label="BspMI"
+                     /ApEinfo_revcolor=#ff1827
+                     /ApEinfo_fwdcolor=#ff1827
+     promoter        80..113
+                     /label="35S pro"
+                     /ApEinfo_revcolor=#5573ff
+                     /ApEinfo_fwdcolor=#5573ff
+     misc_feature    112..113
+                     /label="BpmI"
+                     /ApEinfo_revcolor=#ff1827
+                     /ApEinfo_fwdcolor=#ff1827
+     misc_feature    115..117
+                     /label="BpmI"
+                     /ApEinfo_revcolor=#ff1827
+                     /ApEinfo_fwdcolor=#ff1827
+     promoter        115..484
+                     /label="35S pro"
+                     /ApEinfo_revcolor=#5573ff
+                     /ApEinfo_fwdcolor=#5573ff
+     misc_feature    484..484
+                     /label="BbsI"
+                     /ApEinfo_revcolor=#ff1827
+                     /ApEinfo_fwdcolor=#ff1827
+     misc_feature    486..489
+                     /label="BbsI"
+                     /ApEinfo_revcolor=#ff1827
+                     /ApEinfo_fwdcolor=#ff1827
+     promoter        486..711
+                     /label="35S pro"
+                     /ApEinfo_revcolor=#5573ff
+                     /ApEinfo_fwdcolor=#5573ff
+     misc_feature    709..711
+                     /label="BbsI"
+                     /ApEinfo_revcolor=#ff1827
+                     /ApEinfo_fwdcolor=#ff1827
+     promoter        713..729
+                     /label="35S pro"
+                     /ApEinfo_revcolor=#5573ff
+                     /ApEinfo_fwdcolor=#5573ff
+     misc_feature    726..729
+                     /label="BbsI"
+                     /ApEinfo_revcolor=#ff1827
+                     /ApEinfo_fwdcolor=#ff1827
+     misc_feature    731..731
+                     /label="BbsI"
+                     /ApEinfo_revcolor=#ff1827
+                     /ApEinfo_fwdcolor=#ff1827
+     promoter        731..848
+                     /label="35S pro"
+                     /ApEinfo_revcolor=#5573ff
+                     /ApEinfo_fwdcolor=#5573ff
+     misc_feature    739..746
+                     /label="New Feature"
+                     /ApEinfo_revcolor=#85dae9
+                     /ApEinfo_fwdcolor=#85dae9
+     misc_feature    781..785
+                     /label="New Feature"
+                     /ApEinfo_revcolor=#85dae9
+                     /ApEinfo_fwdcolor=#85dae9
+     misc_feature    797..797
+                     /label="-46"
+                     /ApEinfo_revcolor=#85dae9
+                     /ApEinfo_fwdcolor=#85dae9
+     promoter        797..842
+                     /label="min 35S pro"
+                     /ApEinfo_revcolor=#5573ff
+                     /ApEinfo_fwdcolor=#5573ff
+     misc_feature    813..819
+                     /label="TATA"
+                     /ApEinfo_revcolor=#85dae9
+                     /ApEinfo_fwdcolor=#85dae9
+     misc_feature    843..843
+                     /label="TSS"
+                     /ApEinfo_revcolor=#85dae9
+                     /ApEinfo_fwdcolor=#85dae9
+     misc_feature    846..846
+                     /label="TSS Le Masson et al., 2012"
+                     /ApEinfo_revcolor=#85dae9
+                     /ApEinfo_fwdcolor=#85dae9
+     misc_feature    849..870
+                     /label="match with L2-500"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     primer          complement(861..888)
+                     /label="60R-35S-BP"
+                     /note="sequence: ATGGTCTCACATTGGTGATGTTGGATCC"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+ORIGIN
+        1 TAGGTCTCAG GAGAGATTAG CCTTTTCAAT TTCAGAAAGA ATGCTAACCC ACAGATGGTT
+       61 AGAGAGGCTT ACGCAGCAAG TCTCATCAAG ACGATCTACC CGAGCAATAA TCTACAGGAA
+      121 ATCAAATACC TTCCCAAGAA GGTTAAAGAT GCAGTCAAAA GATTCAGGAC TAACTGCATC
+      181 AAGAACACAG AGAAAGATAT ATTTCTCAAG ATCAGAAGTA CTATTCCAGT ATGGACGATT
+      241 CAAGGCTTGC TTCACAAACC AAGGCAAGTA ATAGAGATTG GAGTCTCTAA AAAGGTAGTT
+      301 CCCACTGAAT CAAAGGCCAT GGAGTCAAAG ATTCAAATAG AGGACCTAAC AGAACTCGCC
+      361 GTAAAGACTG GCGAACAGTT CATACAGAGT CTCTTACGAC TCAATGACAA GAAGAAAATC
+      421 TTCGTCAACA TGGTGGAGCA CGACACACTT GTCTACTCCA AAAATATCAA AGATACAGTC
+      481 TCAGTAGACC AAAGGGCAAT TGAGACTTTT CAACAAAGGG TAATATCCGG AAACCTCCTC
+      541 GGATTCCATT GCCCAGCTAT CTGTCACTTT ATTGTGAAGA TAGTGGAAAA GGAAGGTGGC
+      601 TCCTACAAAT GCCATCATTG CGATAAAGGA AAGGCCATCG TTGAAGATGC CTCTGCCGAC
+      661 AGTGGTCCCA AAGATGGACC CCCACCCACG AGGAGCATCG TGGAAAAAGA AAACGTTCCA
+      721 ACCACGTCTA CAAAGCAAGT GGATTGATGT GATATCTCCA CTGACGTAAG GGATGACGCA
+      781 CAATCCCACT ATCCTTCGCA AGACCCTTCC TCTATATAAG GAAGTTCATT TCATTTGGAG
+      841 AGAACACGGG GGACTCTAGA GGATCCAACA TCACCAATGT GAGACCAT
+//

@@ -1,0 +1,59 @@
+LOCUS       PROM_Mapoly0014s0060    1814 bp ds-DNA     linear       21-DEC-2021
+DEFINITION  .
+KEYWORDS    "Plasmid.size:3853" "Insert.length:1800" "Vector.length:2053"      
+            "Availability:yes" "Status:Available needs diluting" "Plasmids Box-
+            Number" "Glycerol stock" "L0 position" "Type.of.part:PROM"
+            "Description:OK" "Phytozome.ID:Mapoly0014s0060" "TF.family:WOX"
+            "MarpolBase.Name:MpHD6" "Original.Name" "Acceptor.plasmid:pUAP1"
+            "Resistance:Cm" "Source of part-DNA" "Analysis of plasmid (sequence
+            RE)" "Designer:MD SSG" "Builder:Genewiz" "Curator (annotations seq
+            schema):MD SSG" "Which Type IIS" "kit" "Shared.with..Relevant.info"
+            "Twist.order.item.id" "Twsit.line.item.number" "Twist.Plate"
+            "Twist.Plate.number" "Twist.Well" "Yield.ng:2000"
+            "GENEWIZ.Clone.ID:BB7601-66/Y121289" "Genewiz.Order:8" "Label"
+FEATURES             Location/Qualifiers
+     misc_feature    8..11
+                     /label="PROM overhang"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    12..1803
+                     /label="proMapoly0014s0060"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     misc_feature    1804..1807
+                     /label="PROM overhang"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+ORIGIN
+        1 ggtctcagga ggccttagtt catacgtagc ccgatgtcga gctgcatggt cccaaaagtc
+       61 ttctagacaa acactcgata ctcgaccttg gatactctag tgttgcgaaa gaaaaaggcc
+      121 aactctggat gtaaataatt tattcacaag gagcgagaaa gagacgaaat gaagaaattg
+      181 gctacaaaca ttccaacctt cggtcacgat ggtatttggc tgctaaactg ggcaagagct
+      241 tgtctcttgc ggaagttggt caaccggtaa gaggtaattt ccagccattg tatcagagtg
+      301 caaagtcctc gtgcaggaag gaaattgatt tggctagatt ggtgtgctcg aatttgctta
+      361 tgtggaggag gaacctattt cacacattca tacgatcgtg tattcaagta caggaactca
+      421 ccgaccaatg tatgtatgca tacctcgaca gattctattt ctaggcatga ttggacgctt
+      481 aaacacaccc accccaagga tcaggagcgg cgggctccgt gaatgtacat cgcggacgct
+      541 gcctgccgtc tgtagattcc tcaatacgat tgccttttgt acattctctt cgacggggga
+      601 agacatcgag aatgagcata tgcgcagcct ggcttcagta ataaagctcg aaccgagcag
+      661 gttgcgaata ttctcggcta cccatacaga ttcccattct gtattctaga ctccgatctc
+      721 gttttaaata cggacgttac cgttacatag ataaaagaga cggtacgccg aaacttggaa
+      781 gtcaagccaa gtgcatgacc cccccccccc ccccccttcc cttgggaaag cgaaatccat
+      841 gcgaggcgtg ttgaaaatcg tcgtcatgtc gatgcccaat aatcctcgaa gatccatcga
+      901 aggaaggacg gaaggaagga aagaaggaaa gaaggaaaga aagaaagaaa gaagttgccg
+      961 tccttgcgac tcgacaggtt ccggcaggag ttctcttacc ctggccggga gaagtgggaa
+     1021 gataaagaga cggccgtgcg cgcaaacatt catccacctt tcgatgcaga gcgggaatcc
+     1081 aaccagcagt caacatgcgc attttctttc cgcgtcgtta cctctctttc acgataagag
+     1141 attgccttgc tctcgttctt ttctttctgg cccggagtgc actacacatg ctctagaggc
+     1201 ggtgtcgctt gtttgcacgt caaggatgac acagaccgac ctatattccc accgcaaggg
+     1261 cgatgtcgcc ggaatgcacc aaatgccggc ccggacagca acatgtggac gtgaaggagg
+     1321 tgatcgagta atggaccggc aatcaggtga catggaagat gtgtgtatac gagcgagtcg
+     1381 acgaaatggc gggacacgtg ctcggacgag gccagggtcc gcggcttgag ggcgccggcg
+     1441 agagctcgtt tctcgtgcat ggtgcaagga agggaaggga atggggcgag ggtggacgtt
+     1501 ggagtccacg gcgagtatgt atgatgcatg tatggatgga tggatggatg agagggtgac
+     1561 gtggatgggg agatagacgg cgaggctggc gatggtcatc gggcggtggc aaaactatgc
+     1621 gccgttatta ttccctgtcc ccattcactc gccagattcc ccttttgaca cgtctgtctc
+     1681 gggtgtacat tcatcgggcg tacgcttttg cagactgtgt ccgcgcctac cctaaaccct
+     1741 ggacgccgac ccggcccggc ccggcccggc ccacgtcgct cgaccggcag ggctctgagg
+     1801 atttactcga gacc
+//

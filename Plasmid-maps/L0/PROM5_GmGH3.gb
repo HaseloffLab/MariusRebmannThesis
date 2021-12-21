@@ -1,0 +1,106 @@
+LOCUS       PROM5_GmGH3              768 bp ds-DNA     linear       21-DEC-2021
+DEFINITION  .
+KEYWORDS    "Plasmid.size:2807" "Insert.length:754" "Vector.length:2053"       
+            "Availability:yes" "Status:Available" "Plasmids Box- Number"
+            "Glycerol stock" "L0 position" "Type.of.part:PROM5"
+            "Description:NA" "Phytozome.ID:NA" "TF.family" "MarpolBase.Name"
+            "Original.Name" "Acceptor.plasmid:pUAP1" "Resistance" "Source of
+            part-DNA:seq from X60033, soybean GH3 gene" "Analysis of plasmid
+            (sequence RE)" "Designer:SSG" "Builder:Genewiz" "Curator
+            (annotations seq schema):SSG" "Which Type IIS" "kit:not working"
+            "Shared.with..Relevant.info" "Twist.order.item.id"
+            "Twsit.line.item.number" "Twist.Plate" "Twist.Plate.number"
+            "Twist.Well" "Yield.ng:2000" "GENEWIZ.Clone.ID:BB8641-1/T378072"
+            "Genewiz.Order:14" "Label" "accession:X60033.1"
+FEATURES             Location/Qualifiers
+     BsaI_F          1..6
+                     /label="BsaI_F"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     misc_feature    8..8
+                     /label="Overhang"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     misc_feature    9..600
+                     /label="this is expected promtoer region"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     misc_feature    9..756
+                     /label="this is the promoter use to fuse with GUS"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     misc_feature    11..11
+                     /label="A>G, to avoid ggag repetion twice"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     misc_feature    174..178
+                     /label="TGA1 binding site"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    279..297
+                     /label="similar seq to aux-inducible agro promoter"
+                     /ApEinfo_revcolor=#75c6a9
+                     /ApEinfo_fwdcolor=#75c6a9
+     misc_feature    366..371
+                     /label="TGA1 binding site"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     misc_feature    399..407
+                     /label="CACCAT motif  similar to B box Aux28"
+                     /ApEinfo_revcolor=#75c6a9
+                     /ApEinfo_fwdcolor=#75c6a9
+     misc_feature    406..414
+                     /label="similar to B bx in Aux28"
+                     /ApEinfo_revcolor=#75c6a9
+                     /ApEinfo_fwdcolor=#75c6a9
+     misc_feature    515..520
+                     /label="TGA1 binding site"
+                     /ApEinfo_revcolor=#c6c9d1
+                     /ApEinfo_fwdcolor=#c6c9d1
+     regulatory      567..574
+                     /label="GH3 regulatory"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     misc_feature    567..574
+                     /label="TATAA box"
+                     /ApEinfo_revcolor=#f8d3a9
+                     /ApEinfo_fwdcolor=#f8d3a9
+     gene            567..757
+                     /label="GH3 gene"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     misc_feature    601..756
+                     /label="this is expected 5UTR region"
+                     /ApEinfo_revcolor=#d6b295
+                     /ApEinfo_fwdcolor=#d6b295
+     exon            601..757
+                     /label="GH3 exon"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     mRNA            601..757
+                     /label="GH3 mRNA"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    complement(758..761)
+                     /label="Overhang"
+                     /ApEinfo_revcolor=#75c6a9
+                     /ApEinfo_fwdcolor=#75c6a9
+     BsaI_R          complement(763..768)
+                     /label="BsaI_R"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+ORIGIN
+        1 ggtctcagga Gttcacgaat aaagaaaaat taaaagtctc aacaaatgta gtaagagggc
+       61 aaaaataggc tgtaataact tgcaaagtgt gcagtgaagt tttcttcgta ctacgtagaa
+      121 acttctcagt tctttctcac atttctgccc acagggattt ggatttcgtg tattgacgca
+      181 gttataccat cattaatctt atccttcaat ttttataaaa ttaataaaat aaataaaaaa
+      241 ttaattaagc ttccgatctt gactgcctgc ttgaatgcgt cggcggcgcc cattagtttc
+      301 tcatgccaac acaccctata acgcctaatt ttgcccgagt attactatat tgggagaact
+      361 tttgctgacg tggcgacaca tctggaccca catgtcggcc accatgcacc atccctggcc
+      421 ctcgtgtctc ctcaataagc tacacaattt gaaacataca cgcaatcctt tgtctcaata
+      481 agttccactc aggtactgtt ttctcccgca accatgacgt aattctgtaa atcacatgtt
+      541 tcatgctccc aattattttc cgcttctata aatacctctc ccatttcgca acttttctcc
+      601 atccatactc atccacttct tgaaccgtgc cttaactaaa ctagagctag aattagagtt
+      661 agctaccttg cctaattcac aaacgcgtcc ctctacggct ctacctatta gctatctttt
+      721 ttgtgctgtg attgaaatta atttgtgata gctcaccaat gcgagacc
+//

@@ -1,0 +1,66 @@
+LOCUS       CDS12_MpCKX2            1626 bp ds-DNA     linear       21-DEC-2021
+DEFINITION  .
+KEYWORDS    "Plasmid.size" "Insert.length:1608" "Vector.length"                
+            "Availability:No" "Status:Sent to GNW" "Plasmids Box- Number"
+            "Glycerol stock" "L0 position:B3-B4 (AATG - TTCG)"
+            "Type.of.part:CDS12" "Description: MpCKX2, Cytokinin oxidase"
+            "Phytozome.ID:Mp5g10910" "TF.family" "MarpolBase.Name"
+            "Original.Name" "Acceptor.plasmid:pUAP4" "Resistance:Cm" "Source of
+            part-DNA" "Analysis of plasmid (sequence RE)" "Designer" "Builder"
+            "Curator (annotations seq schema)" "Which Type IIS" "kit"
+            "Shared.with..Relevant.info" "Twist.order.item.id"
+            "Twsit.line.item.number" "Twist.Plate" "Twist.Plate.number"
+            "Twist.Well" "Yield.ng" "GENEWIZ.Clone.ID" "Genewiz.Order" "Label"
+FEATURES             Location/Qualifiers
+     misc_feature    1..6
+                     /label="BsaI F"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    8..11
+                     /label="fusion"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     misc_feature    9..1613
+                     /label="CDS_MpCKX2"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+     CDS             9..1619
+                     /label="Translation 9-1619"
+     misc_feature    1616..1619
+                     /label="CDS12 overhang"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    complement(1621..1626)
+                     /label="BsaI R"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+ORIGIN
+        1 ggtctcAaAT GATGCTGCAA TTACTGAAAT ATCTCACGGC GATCGCCACC CTGGGGCTCA
+       61 GCCATGCTTC AGGCCCAGGC CCCGCAGCAA TCAGCACGAT CGATGGCTGC ACTCTCGCGG
+      121 CCTCGGACTG CATGGCCTTG GCGGCTCTGG AATTGGACGG GTCCCTGACC TTCCGCGACA
+      181 CGAGCTTCGC CGCCGTGGAT TTTGGCCACA TCGTCAGCGC GCGCCCTGCG GCGGTGCTGC
+      241 ACCCGGGCTC GACTCGCGAC ATCGCCAAGC TCGTTCGATT CGTGTACGCC TCGAGCTCCA
+      301 ATGTGAGCAT CGCCGCGAGG GGAGTGGGCC ACTCGGCCAA TGGGCAGGCG CAAGTGCTCA
+      361 ACGGGATCGT CATCGACATG TCAGACCTCA GAGGCTCGCG AGTGAGCGCG CGCGGGGCGT
+      421 TCGTCGAGGC CGCGGGCGGC GAATTGTGGA TCGACGTGCT GCGCGCGAGC CTGGCCAAGG
+      481 GCCTGGCGCC GAGGTCGTTC CTGGACTACC TGCATCTGAG CGTCGGTGGG ACCCTGTCCA
+      541 ATGGCGGCAT CAGCGGGCAG ACGTACTTCT GGGGTCCGCA GATCTCCAAT GTGCTGCAGC
+      601 TCGAGGTCGT CACGGGCACA GGCGAGCTCG TCACTTGCTC CAGGCGGACG CGCTCGGATC
+      661 TCTTCTTCGC AGTGCTCGGC GGGCTGGGCC AATTCGGCAT CATCACCAAG GCGCGCATCA
+      721 ATCTGCAGCC CAGCGCCACG CATGTGCATC ACGTCCATGC GCTCTACGCC GACTTCGCCT
+      781 CGTTCCAGCG CGACCAGCTG CGCCTCATCT CGCTCCAGCA GCAGCGCAAG GCCATCGCCT
+      841 CCTTCGAGTA CATCGAGGGC CATCTCGTCA CGAACTCCGA CAGCCTCGTC AACGGATTCA
+      901 GCTCCGTGCC ATTCGAGGGC CAGACGGTGA ATGTGAATCT GCTGCCATCC CCCGGCAACG
+      961 CGTCCGTTCT GTACTATCTG GAGCTCGCCA AGAGCTACAA CATCGCGCTC GAGTCGCCTG
+     1021 CCTCCGTGCA CGAGCAAGTG AGCCAGCTGC TGGCGCCGCT GGCCTTCATT CCGTCGCAGG
+     1081 TCTTCACGAG GGACGAGCCT TTCGTGGATT TTCTGGACCG AGTGCACACC GGCGAGCTGA
+     1141 CGCTGCGAGC GGCCGGCTTG TGGGAAATTC AGCACCCGTG GTCGACTCTG TTCGTGCCGG
+     1201 CCAGTGCCAT GGCGACATTC GAGCGCACGG TTCTGAGAAC CGTCGATGTG AGTACCTTCA
+     1261 ATGGTCCTGT CAACATCTTC CCTGTGAACC GGAACAAGTG GGACCCCCAG ATGTCGGCCG
+     1321 TGACCCCGGA CGAGGACATA TTCTTCACTG TCTCGTTCCT GAATTCCGTG GGCGCCGGAC
+     1381 AGGGCCCGAC TTTGAAGGCC TTGGTCGACC GCAATTCTCA AGCCTGGCAG GCTTGTGAGA
+     1441 GACTCGGGTG CAAGCAGTTC TTTCCGACTC ACACCTCGCG TGCCGACTGG GAGGCTCACT
+     1501 TTGGCGCCAA ATGGGCTAAG TTTGTTCTGA ACAAGAGGAG GTTCGATCCC AAAGCCATGT
+     1561 TATCCCCGAA ACAGAACATC TTCACACGAG GGCAGACATT CCCGTTCCTA TTAgcttcgt
+     1621 gagacc
+//

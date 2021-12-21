@@ -1,0 +1,78 @@
+LOCUS       CDS12_mVenus             738 bp ds-DNA     linear       21-DEC-2021
+DEFINITION  .
+KEYWORDS    "Plasmid.size:3712" "Insert.length:738" "Vector.length:2974"       
+            "Availability:yes" "Status:Available" "Plasmids Box- Number"
+            "Glycerol stock" "L0 position" "Type.of.part:CDS12" "Description"
+            "Phytozome.ID" "TF.family" "MarpolBase.Name" "Original.Name"
+            "Acceptor.plasmid:pJET1.2" "Resistance:Amp" "Source of
+            part-DNA:p0_SSG010" "Analysis of plasmid (sequence RE):seq"
+            "Designer:SSG" "Builder:EF" "Curator (annotations seq schema):SSG"
+            "Which Type IIS" "kit:not needed" "Shared.with..Relevant.info"
+            "Twist.order.item.id" "Twsit.line.item.number" "Twist.Plate"
+            "Twist.Plate.number" "Twist.Well" "Yield.ng" "GENEWIZ.Clone.ID"
+            "Genewiz.Order" "Label:done"
+FEATURES             Location/Qualifiers
+     misc_feature    1..6
+                     /label="BsaI F"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     Overhang        8..11
+                     /label="CDS- overhang"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     CDS             9..11
+                     /label="Translation 9-11"
+     primer          9..22
+                     /label="7F-AATG-CDS12mTurq"
+                     /note="sequence: taggtctcaAATGgtgagcaaggg"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     CDS             12..722
+                     /label="CDS12_mVenus"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     CDS             12..722
+                     /label="Translation 12-722"
+     misc_feature    627..629
+                     /label="A206K, monomer"
+                     /ApEinfo_revcolor=#f96381
+                     /ApEinfo_fwdcolor=#f96381
+     misc_feature    complement(716..738)
+                     /label="8R primer"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     misc_feature    complement(716..722)
+                     /label="2R-primer-binding part"
+                     /ApEinfo_revcolor=#b7e6d7
+                     /ApEinfo_fwdcolor=#b7e6d7
+     CDS-            723..727
+                     /label="mVenus"
+                     /ApEinfo_revcolor=#f96381
+                     /ApEinfo_fwdcolor=#f96381
+     CDS             723..727
+                     /label="Translation 723-727"
+     CDS             726..731
+                     /label="Translation 726-731"
+     Overhang        728..731
+                     /label="CDS- overhang"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     misc_feature    complement(733..738)
+                     /label="BsaI R"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+ORIGIN
+        1 ggtctcaaat ggtgagcaag ggcgaggagc tgttcaccgg ggtggtgccc atcctggtcg
+       61 agctggacgg cgacgtaaac ggccacaagt tcagcgtgtc cggcgagggc gagggcgatg
+      121 ccacctacgg caagctgacc ctgaagctga tctgcaccac cggcaagctg cccgtgccct
+      181 ggcccaccct cgtgaccacc ctgggctacg gcctgcagtg cttcgcccgc taccccgacc
+      241 acatgaagca gcacgacttc ttcaagtccg ccatgcccga aggctacgtc caggagcgca
+      301 ccatcttctt caaggacgac ggcaactaca agacccgcgc cgaggtgaag ttcgagggcg
+      361 acaccctggt gaaccgcatc gagctgaagg gcatcgactt caaggaggac ggcaacatcc
+      421 tggggcacaa gctggagtac aactacaaca gccacaacgt ctatatcacc gccgacaagc
+      481 agaagaacgg catcaaggcc aacttcaaga tccgccacaa catcgaggac ggcggcgtgc
+      541 agctcgccga ccactaccag cagaacaccc ccatcggcga cggccccgtg ctgctgcccg
+      601 acaaccacta cctgagctac cagtccaagc tgagcaaaga ccccaacgag aagcgcgatc
+      661 acatggtcct gctggagttc gtgaccgccg ccgggatcac tctcggcatg gacgagctgt
+      721 acaaggcttc gtgagacc
+//

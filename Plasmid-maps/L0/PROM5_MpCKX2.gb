@@ -1,0 +1,86 @@
+LOCUS       PROM5_MpCKX2            2698 bp ds-DNA     linear       21-DEC-2021
+DEFINITION  .
+KEYWORDS    "Plasmid.size" "Insert.length:2676" "Vector.length"                
+            "Availability:No" "Status:Sent to GNW" "Plasmids Box- Number"
+            "Glycerol stock" "L0 position:A1-B2 (GGAG - AATG)"
+            "Type.of.part:PROM5" "Description:MpCKX2, Cytokinin oxidase"
+            "Phytozome.ID:Mp5g10910" "TF.family" "MarpolBase.Name"
+            "Original.Name" "Acceptor.plasmid:pUAP4" "Resistance:Cm" "Source of
+            part-DNA" "Analysis of plasmid (sequence RE)" "Designer:MR"
+            "Builder:Genewiz" "Curator (annotations seq schema):MR" "Which Type
+            IIS:Loop 2.0 (no BsaI, SapI)" "kit" "Shared.with..Relevant.info"
+            "Twist.order.item.id" "Twsit.line.item.number" "Twist.Plate"
+            "Twist.Plate.number" "Twist.Well" "Yield.ng" "GENEWIZ.Clone.ID"
+            "Genewiz.Order" "Label"
+FEATURES             Location/Qualifiers
+     misc_feature    1..6
+                     /label="BsaI Site"
+                     /ApEinfo_revcolor=#d6b295
+                     /ApEinfo_fwdcolor=#d6b295
+     misc_feature    8..11
+                     /label="PROM5 overhang"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    12..1811
+                     /label="PROM_MpCKX2"
+                     /ApEinfo_revcolor=#85dae9
+                     /ApEinfo_fwdcolor=#85dae9
+     misc_feature    1812..2687
+                     /label="5UTR_MpCKX2"
+                     /ApEinfo_revcolor=#d6b295
+                     /ApEinfo_fwdcolor=#d6b295
+     misc_feature    2688..2691
+                     /label="PROM5 overhang"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    2693..2698
+                     /label="BsaI site"
+                     /ApEinfo_revcolor=#d6b295
+                     /ApEinfo_fwdcolor=#d6b295
+ORIGIN
+        1 GGTCTCAGGA GGAAAACTAG ATTGCACTGT TTCGTGCATG GTCGAAACCA GACACAGGTG
+       61 CGAACTTGAC ATCAGCAGCG TGGACCTCTC GCGAGCAAAT CTGCTGTGTG TACAAGCAGA
+      121 TCCAGCAGCA AATCCGCCAT AATCACAAAA TATTTTAGAT TCTCTGTCCG GATCCTCAGG
+      181 TGAGTTGTAA TCTTGCTCAC CAACTTCAAC TTACTGCAGC GGCTGCACCC TGCGAAAGCA
+      241 TTTGACGACC GGTTCTTCTG AGAATCGTAC GATGTCGTCC GAACAGTGCC AAAGCTGTTT
+      301 CGAAATGTTT TAATTTACAG TACACCATCA TGATTCTCAT TACTTGACTC AGTAGTTTAT
+      361 GGGATTGTCA TGGACTTTTT AATTCTTCAC GTTCATCAGA TCTGCAACAA CAGTAGGACC
+      421 GTGGACGAGC AAGAAGATAA AAAAGGCTCG CACCAACTGA TTTTCTTGGG GCAAAATGTG
+      481 CAGACAGGCG TCCCATTCAA GAAACAGATG TTGCTCGATC CTTTGCACTT AAGGGCGCCG
+      541 GACATCGATC TGGGAACTGT TTTTCTGTGC ATGCTCACGA GGTTTTTCTG TCCAGCTACA
+      601 CACATTGAGA CGTTGACGAG TGCATGAGTC CCAGTAAAGC GCCGGAGGGA AAATCTCGAG
+      661 AGAAACGCGT TTCCATACAC TTTGCAGTCG TTATATTTGC TGCAGAACGG AGCAAGGATG
+      721 GAAAGGGACT GCAAAGAACG AAAGAACAAA AGGATGACAG AAGTTTTAAA GCACCAGCAG
+      781 ATTCAGCACC CTCAAGCAAA AGCCGTTATA GTTGTTTCTG CTTCAAAACG TGCACAGCTA
+      841 AACCCAGAAC CTATCAGATG ATCAGAAACC TGCCGTACCT CTAGACCTCA TTATGCTACG
+      901 CACTTGTGCG GTATTCCTCC TCCTCTGTGT ACTGTGCTGG AGTGATTTCA CCCAATGGGT
+      961 GGCGACTTTG TACGAAGATA TTTTGTTCCA ACTCGTTTCC GATGTTTGGG GACTGACACT
+     1021 AGAAGCAAGT TCCACGAAAT CGGATCTGGG TCATGTGACC TCTTCTGTCG GCACAGTGAC
+     1081 AGAGTAGATT TCTCTTACCC CAGGGGGAGA GGAGTTCGGC CTTCAGTTTG AAGGATAGTC
+     1141 CCGAGAGCCA CAAATAGTTC AAGTAAGTTC TTACAAAGTC AGCGGCTCAA GTCCACTGCT
+     1201 GCGAGAGCAG AGGATGTAAA GAGGCAGAAC ACCATGAGGA GCTATTATCC TAGAGTACCC
+     1261 TGGTCCTTGA TCCACTTCAC AGGAGCCCGA AGAAGATCGA GGAGATTCCC AAGTGATAAG
+     1321 ATATTAGATC TCGTAATACC TCTGCTTAGC ACAATACAGT GTCATGCAAG ATCCGATTGT
+     1381 CTAGATGAAA GCAAAAGAGA TGGAAAGGAG CGGGGGATTT GATTTCTTAG ACGAAAGCAA
+     1441 AAGGAAGAAA GCAAGGCAAG ACTGGGAGCA TGACAACGAT ACGAATAAGT TGGTATCTAC
+     1501 GAGTCAGGAA CTAATCATGT CATGATGACC TTGAGATTTA AGGAAACGTG CAAGGCAGAT
+     1561 TCACTCTGAA ATTTGGTCTT TGCTGAAATT GTAGATTCTC TGTTGCTTTA GAGTACAATA
+     1621 ATTGAACTTG TGAATAAAAA TATGCTGTAT TCATCCGGGT TCCTCATTCC CGCTTTACTT
+     1681 GGCCTTGAGG CAACTTTTAA GTAGGAGCAG TGGGATGTAG GAAGCAAGGA CCATGACCGT
+     1741 GGTCcCAGAA ATGACAAATC CAGTGACTTT AGGACTCCTC GAGAGGCCTA GAACTACAGT
+     1801 AGAGGAGCCT Cgtgatcaag gctttgcgtc tgaaaactct gaacagggaa cggcgtgcgg
+     1861 caatatacgt atattagaag cgagccagtc aatcaagaca ctgtcggatt gcactattgt
+     1921 acattgggac cgctcgtttc atagcactgt ccaaagatga cttaaaggct ctgcgacaat
+     1981 acatctgtcg aaggaaatca ggggttcact tgtggcgtat gtgtattggt ttgtgtagcc
+     2041 actgctacga gtataaaccg ggcgagtgaa agatgaggaa gtttatcgcc ggatgttgtg
+     2101 agataaatcc attaataacc tacaccccaa tcagtgttcg aattgacttt tcagtgtaaa
+     2161 actaggtgcg ttgggattgt gtgagtcaag aagatatgat gcgagaatat gagcaccaat
+     2221 aaactggagt gtggtcgtta cgggtcgaaa cactacaaaa aacattctga gatgctagtg
+     2281 ttctcggcac aagtgtccaa catcgcgcgt cgacgtttat tgataaaata tgcgcctcgt
+     2341 ctcacacgtg acctcggctc ataaaaggcc cagcgccttg gctgctgaac atcaggtggg
+     2401 cttgccttgt caataacttc gcagactgta gcgagcagct ttgattagtc gtgacgttgg
+     2461 aattcaaaca gtcgcacaat agtagagctg catagtccag agtcgggcaa caatccatgg
+     2521 cgctcatgtg acgcactgac gattcggggt ggaatccagt tgacatcgcg actcatgctt
+     2581 tgacttgcag atctagtgcc tctataaatt tggcatccgc ggccgagatt gcatcacatt
+     2641 gcatcgtttg gagcgggtac attagcaacc agggatcaat cagcgacAAT GTGAGACC
+//

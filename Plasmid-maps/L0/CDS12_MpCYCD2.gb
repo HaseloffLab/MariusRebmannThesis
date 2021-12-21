@@ -1,0 +1,70 @@
+LOCUS       CDS12_MpCYCD;2          1683 bp ds-DNA     linear       21-DEC-2021
+DEFINITION  .
+KEYWORDS    "Plasmid.size" "Insert.length:1662" "Vector.length"                
+            "Availability:No" "Status:Sent to GNW" "Plasmids Box- Number"
+            "Glycerol stock" "L0 position:B3-B4 (AATG - TTCG)"
+            "Type.of.part:CDS12" "Description:MpCYCD;2"
+            "Phytozome.ID:Mp1g24670" "TF.family" "MarpolBase.Name"
+            "Original.Name" "Acceptor.plasmid:pUAP4" "Resistance:Cm" "Source of
+            part-DNA" "Analysis of plasmid (sequence RE)" "Designer:MR"
+            "Builder:Genewiz" "Curator (annotations seq schema):MR" "Which Type
+            IIS:Loop 2.0 (no BsaI, SapI)" "kit" "Shared.with..Relevant.info"
+            "Twist.order.item.id" "Twsit.line.item.number" "Twist.Plate"
+            "Twist.Plate.number" "Twist.Well" "Yield.ng" "GENEWIZ.Clone.ID"
+            "Genewiz.Order" "Label"
+FEATURES             Location/Qualifiers
+     misc_feature    1..6
+                     /label="BsaI F"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    8..11
+                     /label="CDS12 overhang"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     misc_feature    9..1670
+                     /label="CDS_MpCYCD;2"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     CDS             9..1670
+                     /label="Translation 9-1670"
+     CDS             1671..1676
+                     /label="Translation 1671-1676"
+     misc_feature    1673..1676
+                     /label="CDS12 overhang"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    complement(1678..1683)
+                     /label="BsaI R"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+ORIGIN
+        1 ggtctcAaat gTGCGTGCGC TACTTTAGTC GAAGAAGATG TCAAAGCTCG AAGAAGACCT
+       61 TTAGAAAAAA ACTGCGACCA TCGCCCGAAT GTCACAAGCT TCTGTCCAAG TCCAAGCCGT
+      121 CGGGCGGCTC ACGAGAtCAT GCACGCCTGC CCGCTTGCGC TCCAGAGGCC GTGGACTTGT
+      181 TTTGCCCCGA GTCGCTCCCC ATGTTAGATC CACAGAGCTG TCAGGTaTCT TCCGATGCTG
+      241 CTGCTGCAGC AGTCGAGCCG TCTGATCTTC CCACGGATGA ACTTCGGCTC GTTGCACCGA
+      301 TGACAACACC CAGCAGCAGC AGCAGCAGCG ACCCAGGAGC TGCATTTAAT GCAAAATCGC
+      361 CTCCCGGCTG CAATGTCAAA GATGGCGTGT GGCATGACAT CGACGGCATG CCTCAGATGC
+      421 TTCCGAGCAT GGGCCCTCGC GCTGCAGATC CTCGACATGG ATTGGCCGAC GGCGGTGGCT
+      481 GGCATAATTT CTGCCCCGAT CCTGGCTCGC AGCCCGGACT CGGCGCCGTC AAACGACGAG
+      541 GCTGGCATCT CGAGACAGCC GCATCGTTTA TCTCTTCGGG GAACTCTCGT CAGTCCAATT
+      601 ATTTGCCCTG TGAAAGATGG CCCGTCCGAG CACGTGCACC ATTGTCTCTT CCGTCTACGA
+      661 GGACAGCTTG CCACGATCGC CGGCAGCCGA CTAAGCCGTC GAGCTCGTTC AGAATCAATG
+      721 GGGCCATGCG TTTACCTGAT GATCATGACT TCTCATGTCC GTCGAAATTC GGTGAGGCCA
+      781 TGGGCATTCT GCTCGAGAAA GAGACTGCTT CTTGCTTCCA GCTCTCGAAA CCTTACATCG
+      841 ACGGGCTCAC GGAGAATTCT GCCCAGAAGT TGGAGCACAA TGAACTGAGG GACGAGCGCA
+      901 GGGCCATAGT CAACTGGATA TTTGAGGTCA CCAGGCTCCT CCAACTGAGC TCACTTTCTG
+      961 CTGCACATGC AGTGTCCTTT TTGGACCGAT ACCTCTCGCA GCGTTTCTTC CCGGACGCTG
+     1021 AATTTGGAGC GAATGTCGAC ATCCGACTGG CGGCTACAGC TTGCATCTGG ATTGCGGCGA
+     1081 AACTGGAAGA CAGTGGTGCT CCCGATCTCT CATCCATGCG GGAGCTTTTC TCTTTAGACT
+     1141 ACGACGAGGA GAAGATTCGA AAGATGGAAG TCTCCGTGTT GAAGTGCTTG GGATGGCGGA
+     1201 TGCTTGCCGT GACTGCGTTG GATTTTCTAG CGAACATGGT GGCCCAACTA CCTGCTTTCG
+     1261 GCTTGCCCAC TCATCTGTTG CGGCCCGTCG GCCATCGTTC CGAGGAGATC ATGCAAGGGC
+     1321 TCCTTTCAGA GGTGGAGTTC CTGGCCTATC AACCCTCCGT AGTAAGCATG AGTGTGATGC
+     1381 AATGTCTTTT GGACGAATGT GTACCTGTGC ACACCGCCTC CATTATGGCC GCTTTTCACC
+     1441 TGGCTCTGGC ATTTGACGTG GAATCGGAAA AGGTTTGCCA CCGAACTTTG ATGGACCTTG
+     1501 TGGTGGATCC CGACCTCGTT TGCTCGCTTC CATCTCCTGA CCGAGTCGAT TGTGCAAGCT
+     1561 CAAGGGAgGA GCCTAGCGGT TGCTCTCAGT GGACTGATGC CATTGGACAT CGATACCTTC
+     1621 TATCAACTTC TACGTCTTCC AGTCTCAGAA GTTCTGAAAT CCTAAAATGC gcttcgtgag
+     1681 acc
+//

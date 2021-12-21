@@ -1,0 +1,70 @@
+LOCUS       PROM_Mapoly0050s0090    1814 bp ds-DNA     linear       21-DEC-2021
+DEFINITION  .
+KEYWORDS    "Plasmid.size:3853" "Insert.length:1800" "Vector.length:2053"      
+            "Availability:yes" "Status:Available" "Plasmids Box- Number:NA"
+            "Glycerol stock" "L0 position" "Type.of.part:PROM"
+            "Description:Mapoly0050s0090.1" "Phytozome.ID:Mapoly0050s0090"
+            "TF.family:LBD" "MarpolBase.Name:MpASLBD24"
+            "Original.Name:PROM_tf_LBD_6" "Acceptor.plasmid:pUAP1"
+            "Resistance:Cm" "Source of part-DNA" "Analysis of plasmid (sequence
+            RE)" "Designer:M.Delmans(Haseloff)" "Builder:SSG / Twist  4th batch
+            _Nov17" "Curator (annotations seq schema):SSG" "Which Type IIS"
+            "kit" "Shared.with..Relevant.info"
+            "Twist.order.item.id:OI_5989fb7477383b230bae03d7"
+            "Twsit.line.item.number:358" "Twist.Plate:pSHPs1110B685325MU"
+            "Twist.Plate.number:23" "Twist.Well:G3" "Yield.ng:1000"
+            "GENEWIZ.Clone.ID" "Genewiz.Order" "Label:done"
+FEATURES             Location/Qualifiers
+     misc_feature    1..6
+                     /label="BsaI site"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     misc_feature    8..11
+                     /label="PROM overhang"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    12..1803
+                     /label="protf_LBD_6"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     misc_feature    1804..1807
+                     /label="PROM overhang"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    complement(1809..1814)
+                     /label="BsaI site"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+ORIGIN
+        1 GGTCTCAgga gcatgtggaa agtaatttgc ttgatgggac ccgtgaggtt tagttttacc
+       61 cgatgggact ccaacgacgt tgtgccgtcg gacatagttc ttgtaactac gattactact
+      121 agttacaatg cgggaattac aatcagaaat caatccttgg ttataatttc cggtgtatta
+      181 tcacgacaaa gatcaatttt gctcgaagtg caatttattg tgtttcaatt cttctgattg
+      241 caccaattcg gtggatttct ctgttgcctc ccacctgcac cttccttccg taaccctgcg
+      301 tatgcgacga ggagctcgta tcggaaagtg gtccgagctc aagtctctca atcaaccatt
+      361 tgtggcgaac aaataaactc cggatgaaca ttttgctcgt atcctggggg aatggtcgga
+      421 tacaaaacat aaaacaagtg agtgtgatgg agcgcgaagt cactcgaggg tgcgattgac
+      481 tcgttgcact ctctctggtt gttattagaa catgggtgac ggtgcatcgt tcatgggttc
+      541 catcgggtaa aatgaaacct gaagggtacc atcaagcaaa ttactttccg taggggtcat
+      601 atgaagcaaa tctctcctct tagccggagt acccgtcaca aactgcagtc ctcggtgttt
+      661 aaacctttct acgaagggga cgactagagc cgcacccgtt tttgctacgg ccacacccgc
+      721 cctggcatag caaaaacggg tgtggcccca gtagtccctg gagccggatg ggtggacgat
+      781 gacatcaccc cttgtagcag gaggagtact tgaataaggg tcgccgagct ctcatccgag
+      841 gaaagatttt tgggccgatt tcacattccc atgaccctct cggtgttcca tcttcgtttc
+      901 ctggccatgg gcattagcgg gcgggtgtgg ccctagtagt acacttcttt gaatttgttt
+      961 atgtcgtaat gtctcggctt gttttgccat taacctttgt gagcctacaa gtggcttaag
+     1021 taaacatgaa gtacggcatg aagttcattg gaactactcc tcgggttgcg ttgtggtcaa
+     1081 atttattcaa atagaagaat ttagggccgc gcggggtttg ggtagtatcc gcgaaagcgg
+     1141 atatctgtat tcggaacgac tggcgttggt tagtgggggc gtccctttcc gggcctggac
+     1201 ccgtggattc ttttcgctca accctggact ctgggcataa gaggtttctt taaaaatttg
+     1261 aggtgagtga tgaagaaggg tgactagcgg ctccctaaaa gaaacacaat ttatgatcct
+     1321 tcaccataat ctactcattc gcattttcca tacagggcat gatcgtatgg aaaatgcgaa
+     1381 tgaggcatgc ccgtgggcat ggccccgtac ccacggggtt agaagtactg tatgccaaag
+     1441 aagtctcctt cgaacccaag ggggactcga ccagcgggat agggatgcgt acgcggagat
+     1501 cgtagccatt tggccatagc cccccacccc ccccagtttg acccctcccg tacccccgct
+     1561 tgtcgtggcc caactctgag aacaatgtgt gctaaatgac ttttctgctc aagagagctc
+     1621 gtagtcatgt aggaaaccga aacggcgagc gagaatgtag aattcgtgaa gttaactttt
+     1681 actgttataa aagcatatac gaactggtga atagctacag ggactcatca cactccgttt
+     1741 tgggaggggc tccaactctt taagaaccat tcgctgcata gagcctccct cttaagctgc
+     1801 gcttactCGA GACC
+//

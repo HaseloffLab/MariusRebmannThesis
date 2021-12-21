@@ -1,0 +1,75 @@
+LOCUS       PROM5_UASGAL4_min35S     260 bp ds-DNA     linear       21-DEC-2021
+DEFINITION  .
+KEYWORDS    "Plasmid.size:2619 " "Insert.length:260" "Vector.length:2359"      
+            "Availability:yes" "Status:Available" "Plasmids Box- Number"
+            "Glycerol stock" "L0 position" "Type.of.part:PROM5"
+            "Description:UASGALx5 plus min35S" "Phytozome.ID" "TF.family"
+            "MarpolBase.Name" "Original.Name"
+            "Acceptor.plasmid:pMA-RQ-2nd-type" "Resistance:Amp" "Source of
+            part-DNA" "Analysis of plasmid (sequence RE)" "Designer:SSG"
+            "Builder:GeneArt" "Curator (annotations seq schema):SSG" "Which
+            Type IIS" "kit:maybe future, needs recloning"
+            "Shared.with..Relevant.info" "Twist.order.item.id"
+            "Twsit.line.item.number" "Twist.Plate" "Twist.Plate.number"
+            "Twist.Well" "Yield.ng" "GENEWIZ.Clone.ID" "Genewiz.Order"
+            "Label:done"
+FEATURES             Location/Qualifiers
+     misc_feature    1..6
+                     /label="BsaI F"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     Overhang        8..11
+                     /label="PROM5 overhang"
+                     /ApEinfo_revcolor=#75c6a9
+                     /ApEinfo_fwdcolor=#75c6a9
+     misc_feature    12..28
+                     /label="UAS-G(1)"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     promoter        12..249
+                     /label="UAS-GAL4"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     PROM5           12..249
+                     /label="proUASGAL4"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     misc_feature    31..47
+                     /label="UAS-G"
+                     /ApEinfo_revcolor=#f96381
+                     /ApEinfo_fwdcolor=#f96381
+     misc_feature    50..66
+                     /label="UAS-G(2)"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     misc_feature    69..85
+                     /label="UAS-G(3)"
+                     /ApEinfo_revcolor=#f8d3a9
+                     /ApEinfo_fwdcolor=#f8d3a9
+     misc_feature    88..104
+                     /label="UAS-G(4)"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    158..211
+                     /label="min35S"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     misc_feature    212..249
+                     /label="not in m35S"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     Overhang        250..253
+                     /label="PROM5 overhang"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     misc_feature    complement(255..260)
+                     /label="BsaI R"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+ORIGIN
+        1 ggtctcagga gcggagtact gtcctccgag cggagtactg tcctccgagc ggagtactgt
+       61 cctccgagcg gagtactgtc ctccgagcgg agtactgtcc tccgagcgga gactctagaa
+      121 gctactccac gtccataagg gacacatcac aatcccacta tccttcgcaa gacccttcct
+      181 ctatataagg aagttcattt catttggaga ggacgacctg caggtcgacg gatccaagga
+      241 gatataacaa atgtgagacc
+//

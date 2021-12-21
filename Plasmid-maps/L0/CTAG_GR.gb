@@ -1,0 +1,53 @@
+LOCUS       CTAG_GR                  875 bp ds-DNA     linear       21-DEC-2021
+DEFINITION  .
+KEYWORDS    "Plasmid.size:2928" "Insert.length:875" "Vector.length:2053"       
+            "Availability:yes" "Status:Available needs diluting" "Plasmids Box-
+            Number" "Glycerol stock" "L0 position" "Type.of.part:CTAG"
+            "Description:GR domain (DEX inducible)," "Phytozome.ID" "TF.family"
+            "MarpolBase.Name" "Original.Name" "Acceptor.plasmid:pUAP1"
+            "Resistance:Cm" "Source of part-DNA" "Analysis of plasmid (sequence
+            RE)" "Designer:B.Pollak(Haseloff)" "Builder:SSG / Twist 1st batch"
+            "Curator (annotations seq schema):SSG" "Which Type IIS" "kit:maybe
+            future" "Shared.with..Relevant.info"
+            "Twist.order.item.id:OI_5989fb7477383b230bae02a2"
+            "Twsit.line.item.number:49" "Twist.Plate:pSHPs0829B283053MU"
+            "Twist.Plate.number:1" "Twist.Well:C5" "Yield.ng:1000"
+            "GENEWIZ.Clone.ID" "Genewiz.Order" "Label"
+FEATURES             Location/Qualifiers
+     misc_feature    1..4
+                     /label="CTAG overhang"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    5..871
+                     /label="GR domain"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     misc_feature    5..871
+                     /label="ctagGR"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     misc_feature    577..583
+                     /label="SapI mut"
+                     /ApEinfo_revcolor=#f96381
+                     /ApEinfo_fwdcolor=#f96381
+     misc_feature    872..875
+                     /label="CTAG overhang"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+ORIGIN
+        1 ttcggaagct cgaaaaacaa agaaaaaaat caaagggatt cagcaagcca ctgcaggagt
+       61 ctcacaagac acttcggaaa atcctaacaa aacaatagtt cctgcagcat taccacagct
+      121 cacccctacc ttggtgtcac tgctggaggt gattgaaccc gaggtgttgt atgcaggata
+      181 tgatagctct gttccagatt cagcatggag aattatgacc acactcaaca tgttaggtgg
+      241 gcgtcaagtg attgcagcag tgaaatgggc aaaggcgata ccaggcttca gaaacttaca
+      301 cctggatgac caaatgaccc tgctacagta ctcatggatg tttctcatgg catttgccct
+      361 gggttggaga tcatacagac aatcaagtgg aaacctgctc tgctttgctc ctgatctgat
+      421 tattaatgag cagagaatgt ctctaccctg catgtatgac caatgtaaac acatgctgtt
+      481 tgtctcctct gaattacaaa gattgcaggt atcctatgaa gagtatctct gtatgaaaac
+      541 cttactgctt ctctcctcag ttcctaagga aggtctgaaa agccaagagt tatttgatga
+      601 gattcgaatg acttatatca aagagctagg aaaagccatc gtcaaaaggg aagggaactc
+      661 cagtcagaac tggcaacggt tttaccaact gacaaagctt ctggactcca tgcatgaggt
+      721 ggttgagaat ctccttacct actgcttcca gacatttttg gataagacca tgagtattga
+      781 attcccagag atgttagctg aaatcatcac taatcagata ccaaaatatt caaatggaaa
+      841 tatcaaaaag cttctgtttc atcaaaaatg agctt
+//

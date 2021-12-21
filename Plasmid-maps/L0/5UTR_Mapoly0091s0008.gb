@@ -1,0 +1,67 @@
+LOCUS       5UTR_Mapoly0091s0008    1395 bp ds-DNA     linear       21-DEC-2021
+DEFINITION  .
+KEYWORDS    "Plasmid.size:3434" "Insert.length:1381" "Vector.length:2053"      
+            "Availability:yes" "Status:Available" "Plasmids Box- Number:NA"
+            "Glycerol stock" "L0 position" "Type.of.part:5UTR"
+            "Description:Mapoly0091s0008.1" "Phytozome.ID:Mapoly0091s0008"
+            "TF.family:bHLH" "MarpolBase.Name:MpBHLH28"
+            "Original.Name:5UTR_tf_bHLH_38" "Acceptor.plasmid:pUAP1"
+            "Resistance:Cm" "Source of part-DNA" "Analysis of plasmid (sequence
+            RE)" "Designer:M.Delmans(Haseloff)" "Builder:SSG / Twist  4th batch
+            _Nov17" "Curator (annotations seq schema):SSG" "Which Type IIS"
+            "kit" "Shared.with..Relevant.info"
+            "Twist.order.item.id:OI_5989fb7477383b230bae02ec"
+            "Twsit.line.item.number:123" "Twist.Plate:pSHPs1110B685324MU"
+            "Twist.Plate.number:22" "Twist.Well:F3" "Yield.ng:256"
+            "GENEWIZ.Clone.ID" "Genewiz.Order" "Label:done"
+FEATURES             Location/Qualifiers
+     misc_feature    1..6
+                     /label="BsaI site"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     misc_feature    8..11
+                     /label="5UTR overhang"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    12..1384
+                     /label="utr5tf_bHLH_38"
+                     /ApEinfo_revcolor=#5073ff
+                     /ApEinfo_fwdcolor=#5073ff
+     misc_feature    440..445
+                     /label="Restriction site removed"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     misc_feature    1385..1388
+                     /label="5UTR overhang"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    complement(1390..1395)
+                     /label="BsaI site"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+ORIGIN
+        1 GGTCTCAtac tgacgcttcc ctgcaaacgg agatagagag agggagtgag agaacttacc
+       61 ttgggctgta gtctgatcta tattagatcg agccaaggct tgccgtgggc ttgatatgag
+      121 cttgagtagc aggacgcatg tcaactgagc tgaattctga aaatatctga cacctccgat
+      181 cttctggatg tctcagagat ctgagagagg ctacttatga gcgtcgatta ctcactgctc
+      241 ggaggccttc acgaaggatc gtccattgat taggagcttt catgtctaca tgtatcacca
+      301 aacagtgatt ttcatagttg tgctctgagg accttatgat catcatttcg acttggttgc
+      361 ggttgctgta cgtaggaggg tgaaaatcaa aatcccaacg ctcgagggac attcagagat
+      421 atgagacttt gacatgcaag aggccatgca tgcctagctg ttgcatttgc ttctccggct
+      481 tcttgattcg aaattcatta agaggtgggt gctacgtatg gtttgccgca agagggacct
+      541 acatcatgta cgaacaagct tcagagttct gctcgatgaa acacagatca taagtatagt
+      601 cgatgacagc ttcttcttga ataccagcct cgtcctttcc aagattcaac agggtccagc
+      661 ccaaattgat catttccttg cttctacaaa tcccccggtt gcgtccattt atacgtatct
+      721 gaagcgaata gctggttacc ataatctctc ccctacgatc gatccaccat ctcatgaata
+      781 tttaggtaat gttttttgtc gcctttactc ccagtttata cacaacttct tgattcgacc
+      841 atctagtcac gatcggggtc ttatctcaga aagagcatgg agaactcaag aaaagtgatt
+      901 tttgtaggtt gcttgttcga acagatgcac ctcatcatat caacggtctt atcaacacct
+      961 tggagataaa gttgagaaat gcgcactaaa acttaacaca atgctgaaag ccaagtgttt
+     1021 agtgttgcag taagttttcc tcatccggat cttgacagtt gtatgcataa agtatctcca
+     1081 acgtttagat ttagtttgat tctgggtaaa tcctgaaggg cttcaactct aaccttcttg
+     1141 acaactgttg ctccattttg ttctcgttga ttctcttctt ctgttcaagc ctgaaaggtt
+     1201 caatcgaacc cgccttcaaa tgaaatcggg cccagaagtt tatagcaatc ttgctcttgt
+     1261 tgtcgatcat aactcaagat tttgtgcact gcgcaggaaa ctcggagaaa ctgctgaaac
+     1321 aaaatccgac tttcgtgatc ggaactgtac ataatttaca gataaagtct ttattccggc
+     1381 gagtaatgCG AGACC
+//

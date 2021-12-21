@@ -1,0 +1,37 @@
+LOCUS       5UTR_Mapoly0019s0045     359 bp ds-DNA     linear       21-DEC-2021
+DEFINITION  .
+KEYWORDS    "Plasmid.size:2394" "Insert.length:341" "Vector.length:2053"       
+            "Availability:yes" "Status:Available" "Plasmids Box- Number:NA"
+            "Glycerol stock" "L0 position" "Type.of.part:5UTR"
+            "Description:Mapoly0019s0045.1(mpdbTak.gene.9926)"
+            "Phytozome.ID:Mapoly0019s0045" "TF.family:ARF"
+            "MarpolBase.Name:MpB3-3" "Original.Name:5UTR_MpARF1"
+            "Acceptor.plasmid:pUAP1" "Resistance:Cm" "Source of part-DNA"
+            "Analysis of plasmid (sequence RE)" "Designer:M.Delmans(Haseloff)"
+            "Builder:SSG / Twist 1st batch" "Curator (annotations seq
+            schema):SSG" "Which Type IIS" "kit" "Shared.with..Relevant.info"
+            "Twist.order.item.id:OI_5989fb7477383b230bae03f5"
+            "Twsit.line.item.number:388" "Twist.Plate:pSHPs0829B283054MU"
+            "Twist.Plate.number:2" "Twist.Well:G6" "Yield.ng:654"
+            "GENEWIZ.Clone.ID" "Genewiz.Order" "Label"
+FEATURES             Location/Qualifiers
+     misc_feature    10..13
+                     /label="5UTR overhang"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    14..346
+                     /label="utr5MpARF1"
+                     /ApEinfo_revcolor=#5073ff
+                     /ApEinfo_fwdcolor=#5073ff
+     misc_feature    347..350
+                     /label="5UTR overhang"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+ORIGIN
+        1 TAGGTCTCAt actcagcgaa tgttgtcgtc atttcaagag gcctaggaag gggttcagct
+       61 gtcgcctttt gatggtgcag tgtttcgaag ctttggacta aaccgcgcag ggaggagtgc
+      121 caatgaagag gttctcttga ctgcaatgta aaaagaggca cggtcctaag aagcttctag
+      181 ctgcagcagg gatggggcgc tggaaaggca tgcataggag tgaatatcgc agatggaact
+      241 tcactgacat gagctctcca gtctctctct gtatatgagg gaggtgctgg tttgagctgt
+      301 gcaatctcgg tcgcgtccgc catagaacga ttgccctcgg ttctttaatg TGAGACCAT
+//

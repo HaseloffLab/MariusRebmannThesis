@@ -1,0 +1,56 @@
+LOCUS       CTAG_linker-N7           274 bp ds-DNA     linear       21-DEC-2021
+DEFINITION  .
+KEYWORDS    "Plasmid.size:3251" "Insert.length:277" "Vector.length:2974"       
+            "Availability:yes" "Status:Available" "Plasmids Box- Number"
+            "Glycerol stock" "L0 position" "Type.of.part:CTAG"
+            "Description:from At ankyrin-like protein, AT4G19150. Cutler et al
+            2000" "Phytozome.ID" "TF.family" "MarpolBase.Name" "Original.Name"
+            "Acceptor.plasmid:pJET1.2" "Resistance:Amp" "Source of
+            part-DNA:pASG_05" "Analysis of plasmid (sequence RE):seq"
+            "Designer:SSG" "Builder:EF" "Curator (annotations seq schema):SSG"
+            "Which Type IIS" "kit:no, recloned" "Shared.with..Relevant.info"
+            "Twist.order.item.id" "Twsit.line.item.number" "Twist.Plate"
+            "Twist.Plate.number" "Twist.Well" "Yield.ng" "GENEWIZ.Clone.ID"
+            "Genewiz.Order" "Label:done"
+FEATURES             Location/Qualifiers
+     misc_feature    1..6
+                     /label="BsaI F"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     Overhang        8..11
+                     /label="CTAG overhang"
+                     /ApEinfo_revcolor=#f8d3a9
+                     /ApEinfo_fwdcolor=#f8d3a9
+     misc_feature    12..23
+                     /label="Linker"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     CTAG            12..263
+                     /label="ctaglinker-N7"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     CDS             12..263
+                     /label="Translation 12-263"
+     transit_peptide 24..263
+                     /label="N7-NLS"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     misc_feature    42..42
+                     /label="SapI(1)"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     Overhang        264..267
+                     /label="CTAG overhang"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    complement(269..274)
+                     /label="BsaI R"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+ORIGIN
+        1 ggtctcattc ggctgcagcg gccgaattca agcgtgaaga acaagcaagg aaagctaagg
+       61 tgaacaatga gaaaaagacg gaaatagtga aaccagagag ttgtagcaat gaaggagatg
+      121 tcaaggatct gaaaagaaag gactctgagg atggaaacga gggtgaggaa gaagaagctt
+      181 cttcgaaacc gaaaaagcca aaagttgctc tttctcatct tcaggacatt gacgacacag
+      241 aagctgatca agaagaagag taagctttga gacc
+//

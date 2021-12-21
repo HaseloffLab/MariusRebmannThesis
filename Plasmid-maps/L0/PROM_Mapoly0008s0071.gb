@@ -1,0 +1,67 @@
+LOCUS       PROM_Mapoly0008s0071    1814 bp ds-DNA     linear       21-DEC-2021
+DEFINITION  .
+KEYWORDS    "Plasmid.size:3853" "Insert.length:1800" "Vector.length:2053"      
+            "Availability:yes" "Status:Available" "Plasmids Box- Number"
+            "Glycerol stock" "L0 position" "Type.of.part:PROM" "Description"
+            "Phytozome.ID:Mapoly0008s0071" "TF.family:AP2"
+            "MarpolBase.Name:MpAP2L1" "Original.Name" "Acceptor.plasmid:pUAP1"
+            "Resistance:Cm" "Source of part-DNA" "Analysis of plasmid (sequence
+            RE)" "Designer:MD SSG" "Builder:Genewiz" "Curator (annotations seq
+            schema):MD SSG" "Which Type IIS" "kit" "Shared.with..Relevant.info"
+            "Twist.order.item.id" "Twsit.line.item.number" "Twist.Plate"
+            "Twist.Plate.number" "Twist.Well" "Yield.ng:4000"
+            "GENEWIZ.Clone.ID:BB7599-58/V368743" "Genewiz.Order:9" "Label"
+FEATURES             Location/Qualifiers
+     misc_feature    8..11
+                     /label="PROM overhang"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    12..1803
+                     /label="proMapoly0008s0071"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     misc_feature    428..433
+                     /label="Restriction site removed"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     misc_feature    853..859
+                     /label="Restriction site removed"
+                     /ApEinfo_revcolor=#f96381
+                     /ApEinfo_fwdcolor=#f96381
+     misc_feature    1804..1807
+                     /label="PROM overhang"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+ORIGIN
+        1 ggtctcagga gggaacgggg aatgttgaca attgctgcta ttattgtcag gacaaaagaa
+       61 aacatttcag tgatacggaa gggggtgccg agagagatag agtgcgtgac tgcgaaggca
+      121 gcaaggggcc cgaggtcact tcatcatcat gcaaacggag gagacatgaa ctttgtagat
+      181 agtgtaccca acccagtgcc tgcctgcccg cctgcccatg gacccgatct ctagcaggag
+      241 caggagcagg gagcagaggc agcactgctc gtagtaccca acacgatggt tcgagtttag
+      301 agagagtggg tgtaaggggc tgggcttagg acttaaaccg tcacttagga gggctaatct
+      361 agggactcgg tacatggggg ttatcgttcc cccttccctt gccggcaagc ttaactggcc
+      421 ggaaggagag gcccgggagg ctaaaatggg ggcttgtggg aaggggttgg gggttggggg
+      481 tgggggtgag gggtgaaatt ggagggagcg agactgggaa gaggggagag gggagaggag
+      541 ggagggggga ggggggaccc acgggtgcat tgaccaggcg gcggtgggta acggtcccac
+      601 agaagggcaa agggaaggga caggtctgta ctcgctacgg acggcactca gttagtgctc
+      661 tgctgtgtgt catacgtagg cttacggagg atcccgggcc gggtgaagcc ccaacgcgga
+      721 ggcctctttt ggggggagtg ggcccgggcg aagcgtcttg caattaatgc ccgccgcacc
+      781 tgacctttct cccatgttcc gcgtaagttt aaggaaaccg cattccactg ctagagacaa
+      841 gttgggggct ccgctcgtcc tttcgtttca agtccgtccg cccctgcgca cctccagttc
+      901 tatctgaggc tagctttgac ccaggccccc tgcctgcaca ggccagcagc tcctcggaca
+      961 gagttagttg actgactccc accctagatg cgccctagat gcccttcgcc ctgcccctct
+     1021 gcccgtcgtc atcgtcttcg tccctgtctc gcccgacccc cgcgggccgg gccggggcag
+     1081 cggggctcgg ggtcgggctc gatttactcg gtccgaactg cgtttggcag cgtcgctgat
+     1141 ttagcgaggg cttcgggcgg gcgggcacgc aaccacgcga ttccccatgt ccgccgtcac
+     1201 cctaaatgta gcccccgtgg agacggggga aaaggcgctg aaagtcgggg agggggctct
+     1261 cgctctaaag gatctctgcg ttcttcgtga gtcgcggtgg cgtatggcca tgggactgta
+     1321 cgttcattgc agcggaaggg gggcgtccga ggctacgagg ggttgggggg cgggggctgg
+     1381 ggttacagta cgagccgtat gtaatttatc gagggaggaa aaatcgggtc gggcgggagg
+     1441 gttgcgcagg ggaaggttca tcatatctct gtctgtctcc cacccccacc cccaccccca
+     1501 cacgccccgc tccgcttggc cgcgccccga tttcaaactc ggccgagttc cccgggccgc
+     1561 tattttagcc ggccggccag acaacagaca ggacacctca cccgtcctgt gcttatccgg
+     1621 acccagggct tatatctgtg cccccggcgg tccccggtcc ccggtcccgg cagcaggccc
+     1681 cgggccctcg caactcctgc cggcgatcgg gccacggggc ccgggacatg aaaagtgcgc
+     1741 tcgctttccg ggcgctaatc gcaggttaaa gaccggcggg ccgacgacgg accagcgcca
+     1801 acatactcga gacc
+//

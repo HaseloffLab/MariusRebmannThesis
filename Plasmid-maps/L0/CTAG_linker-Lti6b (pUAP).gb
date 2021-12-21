@@ -1,0 +1,97 @@
+LOCUS       CTAG_linker-Lti6b_(pUAP 2280 bp ds-DNA     circular     21-DEC-2021
+DEFINITION  .
+KEYWORDS    "Plasmid.size:2280" "Insert.length" "Vector.length"                
+            "Availability:yes" "Status:Available" "Plasmids Box- Number"
+            "Glycerol stock" "L0 position" "Type.of.part" "Description:ssg023
+            cloned into pUAP" "Phytozome.ID" "TF.family" "MarpolBase.Name"
+            "Original.Name: SSG023-pUAPr" "Acceptor.plasmid:pUAP" "Resistance"
+            "Source of part-DNA" "Analysis of plasmid (sequence RE)"
+            "Designer:EF / SSG" "Builder:EF from GeneArt plasmid" "Curator
+            (annotations seq schema):EF / SSG" "Which Type IIS" "kit:yes"
+            "Shared.with..Relevant.info" "Twist.order.item.id"
+            "Twsit.line.item.number" "Twist.Plate" "Twist.Plate.number"
+            "Twist.Well" "Yield.ng" "GENEWIZ.Clone.ID" "Genewiz.Order" "Label"
+            "MpLA.Name:MpLA-D10-L0"
+FEATURES             Location/Qualifiers
+     Replication_ori 1..589
+                     /label="high-copy-number ColE1/pMB1/pBR322/pUC origin of replication"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     Overhang        855..858
+                     /label="CTAG overhang"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     misc_feature    859..891
+                     /label="Linker"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     CTAG            859..1077
+                     /label="ctaglinker-Lti6b"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     CDS             859..1077
+                     /label="Translation 859-1077"
+     misc_feature    892..909
+                     /label="part5U AtRCI2B"
+                     /ApEinfo_revcolor=#f96381
+                     /ApEinfo_fwdcolor=#f96381
+     CDS             892..1074
+                     /label="Lti6b"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     Overhang        1078..1081
+                     /label="CTAG overhang"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     misc_feature    complement(1089..1089)
+                     /label="here, keep"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     CDS             1324..1983
+                     /label="CmR (cat, chloramphenicol acetyltransferase)"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     Terminator      2004..2098
+                     /label="lambda t0 terminator"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+ORIGIN
+        1 TTGAGATCCT TTTTTTCTGC GCGTAATCTG CTGCTTGCAA ACAAAAAAAC CACCGCTACC
+       61 AGCGGTGGTT TGTTTGCCGG ATCAAGAGCT ACCAACTCTT TTTCCGAAGG TAACTGGCTT
+      121 CAGCAGAGCG CAGATACCAA ATACTGTTCT TCTAGTGTAG CCGTAGTTAG GCCACCACTT
+      181 CAAGAACTCT GTAGCACCGC CTACATACCT CGCTCTGCTA ATCCTGTTAC CAGTGGCTGC
+      241 TGCCAGTGGC GATAAGTCGT GTCTTACCGG GTTGGACTCA AGACGATAGT TACCGGATAA
+      301 GGCGCAGCGG TCGGGCTGAA CGGGGGGTTC GTGCACACAG CCCAGCTTGG AGCGAACGAC
+      361 CTACACCGAA CTGAGATACC TACAGCGTGA GCTATGAGAA AGCGCCACGC TTCCCGAAGG
+      421 GAGAAAGGCG GACAGGTATC CGGTAAGCGG CAGGGTCGGA ACAGGAGAGC GCACGAGGGA
+      481 GCTTCCAGGG GGAAACGCCT GGTATCTTTA TAGTCCTGTC GGGTTTCGCC ACCTCTGACT
+      541 TGAGCGTCGA TTTTTGTGAT GCTCGTCAGG GGGGCGGAGC CTGTGGAAAA ACGCCAGCAA
+      601 CGCGGCCTTT TTACGGTTCC TGGCCTTTTG CTGGCCTTTT GCTCACATGT TCTTTCCTGC
+      661 GTTATCCCCT GATTCTGTGG ATAACCGTAT TACCGCCTTT GAGTGAGCTG ATACCGCTCG
+      721 CCGCAGCCGA ACGACCGAGC GCAGCGAGTC AGTGAGCGAG GAAGCCTGCA TAACGCGAAG
+      781 TAATCTTTTC GGTTTTAAAG AAAAAGGGCA GGGTGGTGAC ACCTTGCCCT TTTTTGCCGG
+      841 ACTGCAGggt ctcGttcggg agctgcggca gctgccgctg cggcagcggc cgaattcaag
+      901 cgcttgaaaa tgagtacagc cactttcgta gagattattc ttgctatcat cttgcctcct
+      961 ctcggcgtct ttctcaaatt tggttgcaag gttgagtttt ggatatgttt gattttgacg
+     1021 ctgtttggtt atcttcccgg aatcctttac gctctttata tcatcacctt ttgatgagct
+     1081 tTgagaccGA ATTCCAGAAA TCATCCTTAG CGAAAGCTAA GGATTTTTTT TATCTGAAAT
+     1141 TCTGCCTCGT GATACGCCTA TTTTTATAGG TTAATGTCAT GATAATAATG GTTTCTTAGA
+     1201 CGTCAGGTGG CACTCGAGTT GATCGGGCAC GTAAGAGGTT CCAACTTTCA CCATAATGAA
+     1261 ATAAGATCAC TACCGGGCGT ATTTTTTGAG TTATCGAGAT TTTCAGGAGC TAAGGAAGCT
+     1321 AAAATGGAGA AAAAAATCAC TGGATATACC ACCGTTGATA TATCCCAATG GCATCGTAAA
+     1381 GAACATTTTG AGGCATTTCA GTCAGTTGCT CAATGTACCT ATAACCAGAC CGTTCAGCTG
+     1441 GATATTACGG CCTTTTTAAA GACCGTAAAG AAAAATAAGC ACAAGTTTTA TCCGGCCTTT
+     1501 ATTCACATTC TTGCCCGCCT GATGAATGCT CATCCGGAAT TTCGTATGGC AATGAAAGAC
+     1561 GGTGAGCTGG TGATATGGGA TAGTGTTCAC CCTTGTTACA CCGTTTTCCA TGAGCAAACT
+     1621 GAAACGTTTT CATCGCTCTG GAGTGAATAC CACGACGATT TCCGGCAGTT TCTACACATA
+     1681 TATTCGCAAG ATGTGGCGTG TTACGGTGAA AACCTGGCCT ATTTCCCTAA AGGGTTTATT
+     1741 GAGAATATGT TTTTCGTCTC AGCCAATCCC TGGGTGAGTT TCACCAGTTT TGATTTAAAC
+     1801 GTGGCCAATA TGGACAACTT CTTCGCCCCC GTTTTCACCA TGGGCAAATA TTATACGCAA
+     1861 GGCGACAAGG TGCTGATGCC GCTGGCGATT CAGGTTCATC ATGCCGTTTG TGATGGCTTC
+     1921 CATGTCGGCA GAATGCTTAA TGAATTACAA CAGTACTGCG ATGAGTGGCA GGGCGGGGCG
+     1981 TAATTTGATA TCGAGCTCGC TTGGACTCCT GTTGATAGAT CCAGTAATGA CCTCAGAACT
+     2041 CCATCTGGAT TTGTTCAGAA CGCTCGGTTG CCGCCGGGCG TTTTTTATTG GTGAGAATCC
+     2101 AAGCCTCGAG CTGTCAGACC AAGTTTACTC ATATATACTT TAGATTGATT TAAAACTTCA
+     2161 TTTTTAATTT AAAAGGATCT AGGTGAAGAT CCTTTTTGAT AATCTCATGA CCAAAATCCC
+     2221 TTAACGTGAG TTTTCGTTCC ACTGAGCGTC AGACCCCGTA GAAAAGATCA AAGGATCTTC
+//

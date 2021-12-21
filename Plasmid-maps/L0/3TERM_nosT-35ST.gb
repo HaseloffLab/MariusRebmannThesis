@@ -1,0 +1,117 @@
+LOCUS       3TERM_nosT-35ST         2740 bp ds-DNA     circular     21-DEC-2021
+DEFINITION  .
+KEYWORDS    "Plasmid.size:2740" "Insert.length" "Vector.length"                
+            "Availability:yes" "Status:Available" "Plasmids Box- Number:Box 9"
+            "Glycerol stock" "L0 position:B6 - C1 (GCTT - CGCT)"
+            "Type.of.part:3TERM" "Description" "Phytozome.ID" "TF.family"
+            "MarpolBase.Name" "Original.Name:pASG_06_L0M_nosT-35ST_(GCTT-CGCT)"
+            "Acceptor.plasmid:NA" "Resistance:Sm" "Source of part-DNA:B.Pollak
+            pB15" "Analysis of plasmid (sequence RE)" "Designer:Chiara Airoldi
+            / Susana Sauret-Gueto" "Builder:Chiara Airoldi / B. Glover Lab"
+            "Curator (annotations seq schema):SSG" "Which Type IIS" "kit:not
+            needed" "Shared.with..Relevant.info" "Twist.order.item.id"
+            "Twsit.line.item.number" "Twist.Plate" "Twist.Plate.number"
+            "Twist.Well" "Yield.ng" "GENEWIZ.Clone.ID" "Genewiz.Order" "Label"
+FEATURES             Location/Qualifiers
+     CDS             1..1011
+                     /label="Sm/Sp\no\DraIII"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     mutation        978..978
+                     /label="G\to\A"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     misc_feature    1171..1785
+                     /label="rep\(pMB1)"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     rep_origin      complement(1770..1770)
+                     /label="ORI"
+                     /ApEinfo_revcolor=#b7e6d7
+                     /ApEinfo_fwdcolor=#b7e6d7
+     misc_feature    2011..2016
+                     /label="BsaI recog site"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     misc_feature    2018..2021
+                     /label="GCTT fusion site"
+                     /ApEinfo_revcolor=#c6c9d1
+                     /ApEinfo_fwdcolor=#c6c9d1
+     CDS             2022..2037
+                     /label="Translation 2022-2037"
+     None            2025..2036
+                     /label="part vector pEGAD (before term)"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     None            2038..2291
+                     /label="nosT-common BP and MoClo"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+     polyA_site      2038..2510
+                     /label="NosT35ST- BP15"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     terminator      2307..2510
+                     /label="35S ter-MoClo"
+                     /ApEinfo_revcolor=#75c6a9
+                     /ApEinfo_fwdcolor=#75c6a9
+     misc_feature    2485..2485
+                     /label="mut C to T"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     misc_feature    2511..2514
+                     /label="CGCT fusion site"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     misc_feature    complement(2516..2521)
+                     /label="BsaI recog site"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+ORIGIN
+        1 atgcgctcac gcaactggtc cagaaccttg accgaacgca gcggtggtaa cggcgcagtg
+       61 gcggttttca tggcttgtta tgactgtttt tttggggtac agtctatgcc tcgggcatcc
+      121 aagcagcaag cgcgttacgc cgtgggtcga tgtttgatgt tatggagcag caacgatgtt
+      181 acgcagcagg gcagtcgccc taaaacaaag ttaaacatca tgagggaagc ggtgatcgcc
+      241 gaagtatcga ctcaactatc agaggtagtt ggcgtcatcg agcgccatct cgaaccgacg
+      301 ttgctggccg tacatttgta cggctccgca gtggatggcg gcctgaagcc acacagcgat
+      361 attgatttgc tggttacggt gaccgtaagg cttgatgaaa caacgcggcg agctttgatc
+      421 aacgaccttt tggaaacttc ggcttcccct ggagagagcg agattctccg cgctgtagaa
+      481 gtcaccattg ttgtgcacga cgacatcatt ccgtggcgtt atccagctaa gcgcgaactg
+      541 caatttggag aatggcagcg caatgacatt cttgcaggta tcttcgagcc agccacgatc
+      601 gacattgatc tggctatctt gctgacaaaa gcaagagaac atagcgttgc cttggtaggt
+      661 ccagcggcgg aggaactctt tgatccggtt cctgaacagg atctatttga ggcgctaaat
+      721 gaaaccttaa cgctatggaa ctcgccgccc gactgggctg gcgatgagcg aaatgtagtg
+      781 cttacgttgt cccgcatttg gtacagcgca gtaaccggca aaatcgcgcc gaaggatgtc
+      841 gctgccgact gggcaatgga gcgcctgccg gcccagtatc agcccgtcat acttgaagct
+      901 agacaggctt atcttggaca agaagaagat cgcttggcct cgcgcgcaga tcagttggaa
+      961 gaatttgtcc attacgtaaa aggcgagatc accaaggtag tcggcaaata actgtcagac
+     1021 caagtttact catatatact ttagattgat ttaaaacttc atttttaatt taaaaggatc
+     1081 taggtgaaga tcctttttga taatctcatg accaaaatcc cttaacgtga gttttcgttc
+     1141 cactgagcgt cagaccccgt agaaaagatc aaaggatctt cttgagatcc tttttttctg
+     1201 cgcgtaatct gctgcttgca aacaaaaaaa ccaccgctac cagcggtggt ttgtttgccg
+     1261 gatcaagagc taccaactct ttttccgaag gtaactggct tcagcagagc gcagatacca
+     1321 aatactgtcc ttctagtgta gccgtagtta ggccaccact tcaagaactc tgtagcaccg
+     1381 cctacatacc tcgctctgct aatcctgtta ccagtggctg ctgccagtgg cgataagtcg
+     1441 tgtcttaccg ggttggactc aagacgatag ttaccggata aggcgcagcg gtcgggctga
+     1501 acggggggtt cgtgcacaca gcccagcttg gagcgaacga cctacaccga actgagatac
+     1561 ctacagcgtg agctatgaga aagcgccacg cttcccgaag ggagaaaggc ggacaggtat
+     1621 ccggtaagcg gcagggtcgg aacaggagag cgcacgaggg agcttccagg gggaaacgcc
+     1681 tggtatcttt atagtcctgt cgggtttcgc cacctctgac ttgagcgtcg atttttgtga
+     1741 tgctcgtcag gggggcggag cctatggaaa aacgccagca acgcggcctt tttacggttc
+     1801 ctggcctttt gctggccttt tgctcacatg ttctttcctg cgttatcccc tgattctgtg
+     1861 gataaccgta ttaccgcctt tgagtgagct gataccgctc gccgcagccg aacgaccgag
+     1921 cgcagcgagt cagtgagcga ggaagcggaa gagcgcccaa tacgcaaacc gcctctcccc
+     1981 gcgcgttggc cgattcatta atcactctgt ggtctcaGCT Tgagctcgaa tttccccgat
+     2041 cgttcaaaca tttggcaata aagtttctta agattgaatc ctgttgccgg tcttgcgatg
+     2101 attatcatat aatttctgtt gaattacgtt aagcatgtaa taattaacat gtaatgcatg
+     2161 acgttattta tgagatgggt ttttatgatt agagtcccgc aattatacat ttaatacgcg
+     2221 atagaaaaca aaatatagcg cgcaaactag gataaattat cgcgcgcggt gtcatctatg
+     2281 ttactagatc GATCCGTATC GATAGCctct agctagagtc gatcgacaag ctcgagtttc
+     2341 tccataataa tgtgtgagta gttcccagat aagggaatta gggttcctat agggtttcgc
+     2401 tcatgtgttg agcatataag aaacccttag tatgtatttg tatttgtaaa atacttctat
+     2461 caataaaatt tctaattcct aaaaTcaaaa tccagtacta aaatccagat CGCTtgagac
+     2521 cacgaagtgg ctcttcagtg gacgaaaggg cctcgtgata cgcctatttt tataggttaa
+     2581 tgtcatgata ataatggttt cttagacgtc aggtggcact tttcggggaa atgtgcgcgg
+     2641 aacccctatt tgtttatttt tctaaataca ttcaaatatg tatccgctca tgagacaata
+     2701 accctgataa atgcttcaat aatattgaaa aaggaagagt
+//

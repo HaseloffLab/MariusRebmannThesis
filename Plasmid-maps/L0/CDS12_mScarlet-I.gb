@@ -1,0 +1,65 @@
+LOCUS       CDS12_mScarlet-I         717 bp ds-DNA     linear       21-DEC-2021
+DEFINITION  .
+KEYWORDS    "Plasmid.size:2756" "Insert.length:703" "Vector.length:2053"       
+            "Availability:yes" "Status:Available" "Plasmids Box- Number"
+            "Glycerol stock" "L0 position" "Type.of.part:CDS12" "Description"
+            "Phytozome.ID" "TF.family" "MarpolBase.Name" "Original.Name"
+            "Acceptor.plasmid:pUAP1" "Resistance" "Source of part-DNA:seq from
+            addgene-plasmid-85044" "Analysis of plasmid (sequence RE)"
+            "Designer:SSG" "Builder:Genewiz" "Curator (annotations seq
+            schema):SSG" "Which Type IIS" "kit:yes"
+            "Shared.with..Relevant.info" "Twist.order.item.id"
+            "Twsit.line.item.number" "Twist.Plate" "Twist.Plate.number"
+            "Twist.Well" "Yield.ng:4000" "GENEWIZ.Clone.ID:ZB522-3/T376251"
+            "Genewiz.Order:12" "Label" "MpLA.Name:MpLA-C10-L0"
+FEATURES             Location/Qualifiers
+     misc_feature    1..6
+                     /label="BsaI F"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     regulatory      9..12
+                     /label="vertebrate consensus sequence for strong initiation of translation (Kozak, 1987)"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     CDS             9..704
+                     /label="mScarlet-I"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     CDS             9..704
+                     /label="Translation 9-704"
+     primer_bind     complement(142..160)
+                     /label="mCherry-R"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     primer_bind     410..429
+                     /label="mCherry-F"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     CDS-            705..706
+                     /label="tagRFP"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     CDS             705..710
+                     /label="Translation 705-710"
+     Overhang        707..710
+                     /label="CDS- overhang"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     misc_feature    complement(712..717)
+                     /label="BsaI R"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+ORIGIN
+        1 ggtctcaAat ggtgagcaag ggcgaggcag tgatcaagga gttcatgcgg ttcaaggtgc
+       61 acatggaggg ctccatgaac ggccacgagt tcgagatcga gggcgagggc gagggccgcc
+      121 cctacgaggg cacccagacc gccaagctga aggtgaccaa gggtggcccc ctgcccttct
+      181 cctgggacat cctgtcccct cagttcatgt acggctccag ggccttcatc aagcaccccg
+      241 ccgacatccc cgactactat aagcagtcct tccccgaggg cttcaagtgg gagcgcgtga
+      301 tgaacttcga ggacggcggc gccgtgaccg tgacccagga cacctccctg gaggacggca
+      361 ccctgatcta caaggtgaag ctccgcggca ccaacttccc tcctgacggc cccgtaatgc
+      421 agaagaagac aatgggctgg gaagcgtcca ccgagcggtt gtaccccgag gacggcgtgc
+      481 tgaagggcga cattaagatg gccctgcgcc tgaaggacgg cggccgctac ctggcggact
+      541 tcaagaccac ctacaaggcc aagaagcccg tgcagatgcc cggcgcctac aacgtcgacc
+      601 gcaagttgga catcacctcc cacaacgagg actacaccgt ggtggaacag tacgaacgct
+      661 ccgagggccg ccactccacc ggcggcatgg acgagctgta caaggcttcg tgagacc
+//

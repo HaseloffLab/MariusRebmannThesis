@@ -1,0 +1,60 @@
+LOCUS       CDS12_MpCYCD;1          1095 bp ds-DNA     linear       21-DEC-2021
+DEFINITION  .
+KEYWORDS    "Plasmid.size" "Insert.length:1074" "Vector.length"                
+            "Availability:No" "Status:Sent to GNW" "Plasmids Box- Number"
+            "Glycerol stock" "L0 position:B3-B4 (AATG - TTCG)"
+            "Type.of.part:CDS12" "Description:MpCYCD;1"
+            "Phytozome.ID:Mp8g17230" "TF.family" "MarpolBase.Name"
+            "Original.Name" "Acceptor.plasmid:pUAP4" "Resistance:Cm" "Source of
+            part-DNA" "Analysis of plasmid (sequence RE)" "Designer:MR"
+            "Builder:Genewiz" "Curator (annotations seq schema):MR" "Which Type
+            IIS:Loop 2.0 (no BsaI, SapI)" "kit" "Shared.with..Relevant.info"
+            "Twist.order.item.id" "Twsit.line.item.number" "Twist.Plate"
+            "Twist.Plate.number" "Twist.Well" "Yield.ng" "GENEWIZ.Clone.ID"
+            "Genewiz.Order" "Label"
+FEATURES             Location/Qualifiers
+     misc_feature    1..6
+                     /label="BsaI F"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    8..11
+                     /label="CDS12 overhang"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     misc_feature    9..1082
+                     /label="CDS_MpCYCD;1"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     CDS             9..1082
+                     /label="Translation 9-1082"
+     CDS             1083..1088
+                     /label="Translation 1083-1088"
+     misc_feature    1085..1088
+                     /label="CDS12 overhang"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    complement(1090..1095)
+                     /label="BsaI R"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+ORIGIN
+        1 ggtctcAaat gGCTCCCAGT ATCGATTGCC CAGCTTCCTT GTACTGCAGC GAAGACGTGA
+       61 GTGGAAATGG ATGGGATGAA GACGGCAACG TTTTCTGCGA GGACTTGAGC AGTGACCTGA
+      121 GCGAAGTGCT ACATCCGGCT CTGCATAGCA CCATTCAGTT CCCAGTGAGA AATGAGCAGG
+      181 CCATTGCAGC TCTCGTTGAG AAAGAAGCTC GCCACATGCC CGAGCCGGAC TACTTGGACC
+      241 GATTCATTTG CAAGAACCTC GACCTTAATG TGCGACAGAC TCTGGTTAAC TGGCTCCTCA
+      301 AGGTTCAGGT CTACCACAAT TTCGGCGCTC TGTCCATTTC GCTCGCTGTC AACTACCTGG
+      361 ACCGCTTTCT ATCTCGCCAT GAATTGCCTG ATGAAAGCGA GTGGAAGGTG CAACTGCTGG
+      421 CCGTGGCATG CATGTCTCTA GCTGCGAAGA TGGAGGAaAC CGAGGTCCCG TTCCTCTTGG
+      481 ATCTTCAGGT CGGGGATGTC ACGCACTACT TCGAAGCACG CACCGTGCAA CGGATGGAGC
+      541 TCCTCGTCTT GAGTACATTG GAATGGAGAA TGAGCGCAAT CACTCCGTTC TCGTACATTG
+      601 ACTACTACTT CGCCAAGCTC GGAATAGACA ACACGATTGT CAGATCGCTG CTGCTCCGAG
+      661 TGATTGACCT CCTTCTGGGA ACTCTCAGAG ATGTAAATTT CCTTGCCTTC CGACCATCAG
+      721 TCATCGCTGC GGCCGCCGTT CTCAGCGCCC TTGACGAACA CGTCCCCATT CAGGGCGAAG
+      781 CCTACAAGAA GATACTGTGC GAGACATGCA ACTCGGCGGA GCTAGAGCGA TGCCTCTTCA
+      841 TCATGCAGGA CGTTCTGGTC GAGGTTTCCC CTCAGAGATT CTTTAAGCGG CGGACTTTTA
+      901 ACACATCTTC AGTACCCCAG AGTCCCGTGG GAGTACTGGA AGCTGCATCG TACAGCTGCG
+      961 CCAGTGATGG TGCTCAATCC TGCGAGGCTA GCCCCAGCAG CGTGAGCTCC AACACTGCAT
+     1021 CAGCTCCCAA GCGACGTCGT CTCGACGGCC TGTGCAGCAG CCTTTTTACA TTCGAAGCAC
+     1081 TAgcttcgtg agacc
+//
