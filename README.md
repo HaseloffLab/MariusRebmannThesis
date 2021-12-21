@@ -15,6 +15,6 @@ The  `Image-analysis` folder contains the script used to quantify fluorescence f
 
 ## Loop assembly parts
 
-The `sequences` folder contains the plasmid sequences described in the __Section 2.1__ of the thesis.
+The `plasmid-maps` folder contains the plasmid sequences described in the __Section 2.1__ of the thesis.
 
 The plasmid maps can be viewed at [Benchling](https://benchling.com/mariusrebmann/f_/aVSKR2za-thesis_marius_rebmann/)
